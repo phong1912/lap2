@@ -1,0 +1,1921 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Cách tắt tự động lưu ảnh trên Facebook Messenger - Thegioididong.com</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Tắt tự động sao lưu ảnh trên Facebook Messenger là để khắc phục vấn đề tự động lưu ảnh vào điện thoại, mà đôi khi bạn không mong muốn.​Để tắt tự động lưu ảnh trên Messenger bạn có thể thao tác theo hướng dẫn:Bước 1: Chọn vào Messenger  Chọn vào thông tin cá nhân.Chọn vào thông tin cá nhânBước 2:" />
+<meta property="og:title" content="Cách tắt tự động lưu ảnh trên Facebook Messenger - Thegioididong.com">
+<meta property="og:description" itemprop="description" content="Tắt tự động sao lưu ảnh trên Facebook Messenger là để khắc phục vấn đề tự động lưu ảnh vào điện thoại, mà đôi khi bạn không mong muốn.​Để tắt tự động lưu ảnh trên Messenger bạn có thể thao tác theo hướng dẫn:Bước 1: Chọn vào Messenger  Chọn vào thông tin cá nhân.Chọn vào thông tin cá nhânBước 2:" />
+<meta property="og:image" content="https://cdn.tgdd.vn/hoi-dap/929605/Thumbnail/cach-tat-luu-anh-tu-dong-200.jpg" />
+<meta property="article:published_time" content="14/02/2019 11:00" />
+<meta property="article:modified_time" content="14/02/2019 11:00" />
+
+<link rel="amphtml" href="https://www.thegioididong.com/hoi-dap/amp/cach-tat-tu-dong-luu-anh-tren-facebook-messenger-929605" />
+    <link rel="canonical" href="https://www.thegioididong.com/hoi-dap/cach-tat-tu-dong-luu-anh-tren-facebook-messenger-929605" />
+    <meta name="bitly-verification" content="811bf9d76554" />
+    <meta content="INDEX,FOLLOW" name="robots" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="copyright" content="Công ty Cổ phần Thế Giới Di Động" />
+    <meta name="author" content="Công ty Cổ phần Thế Giới Di Động" />
+    <meta http-equiv="audience" content="General" />
+    <meta name="resource-type" content="Document" />
+    <meta name="distribution" content="Global" />
+    <meta name="revisit-after" content="1 days" />
+    <meta name="GENERATOR" content="Công ty Cổ phần Thế Giới Di Động" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link href="https://www.thegioididong.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta property="og:site_name" content="Thegioididong.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="fb:app_id" content="505429329544659" />
+    <style>* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    min-width: 1024px;
+    overflow-x: hidden;
+}
+
+img {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.clr {
+    clear: both;
+}
+
+p {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    text-rendering: geometricPrecision;
+}
+
+input[type=text], input[type=tel], textarea {
+    -webkit-appearance: none;
+}
+
+body, input, button, option, textarea, label, legend, h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font: 14px/18px Helvetica,Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif;
+    color: #333;
+    outline: none;
+    zoom: 1;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    min-width: 1024px;
+    background: #fed700;
+    width: 100%;
+    height: 55px;
+    z-index: 3;
+}
+
+section {
+    max-width: 1200px;
+    width: 100%;
+    min-width: 980px;
+    margin: 55px auto 0;
+    position: relative;
+}
+
+footer {
+    width: 100%;
+    min-width: 1024px;
+    margin: 0 auto;
+    background: #fff;
+    overflow: hidden;
+    clear: both;
+}
+/*===============*/
+.wrap-main {
+    max-width: 1200px;
+    min-width: 1024px;
+    width: 100%;
+    height: 55px;
+    background: #000;
+    margin: auto;
+    position: relative;
+    display: block;
+}
+
+.logo {
+    float: left;
+    width: 165px;
+    display: block;
+    padding: 14px 0 11px 5px;
+}
+
+    .logo a {
+        display: block;
+        overflow: hidden;
+    }
+
+#search-site {
+    float: left;
+    width: 230px;
+    height: 35px;
+    margin: 10px 10px 0 10px;
+    background: #fff;
+    position: relative;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+
+.topinput {
+    float: left;
+    width: 162px;
+    margin-left: 8px;
+    padding-top: 3px;
+    border: 0;
+    position: relative;
+    background: #fff;
+    height: 30px;
+    text-indent: 10px;
+    font-size: 13px;
+}
+
+.btntop {
+    float: right;
+    width: 40px;
+    height: 35px;
+    border: 0;
+    background: none;
+}
+/*navigator*/
+nav {
+    width: 780px;
+    background: #fed700;
+    margin: 0;
+    padding: 0;
+    display: table;
+    *display: block;
+    *float: none;
+}
+
+    nav a {
+        display: table-cell;
+        *float: left;
+        width: 75px;
+        height: 44px;
+        padding: 3px 0 4px;
+        color: black;
+        background: #fed700;
+        font-size: 11px;
+        text-align: center;
+        text-transform: uppercase;
+        position: relative;
+    }
+
+        nav a:hover, nav a.actmenu {
+            background-color: #f5f5f5;
+        }
+
+        nav a.mobile {
+            width: 80px;
+        }
+
+        nav a.tablet {
+            width: 80px;
+        }
+
+        nav a.laptop {
+            width: 74px;
+        }
+
+        nav a.phukien {
+            width: 70px;
+        }
+
+        nav a.simcard {
+            width: 60px;
+        }
+
+        nav a.ask {
+            width: 70px;
+        }
+
+        nav a.maydoitra {
+            width: 80px;
+        }
+
+        nav a.gameapp {
+            width: 80px;
+            height: 43px;
+        }
+
+        nav a span {
+            display: block;
+            position: absolute;
+            top: 9px;
+            width: 23px;
+            margin: auto;
+            left: 0;
+            right: 0;
+            font-size: 11px;
+        }
+
+        nav a.cardsim, nav a.utility {
+            text-transform: none;
+            font-size: 13px;
+            padding: 0;
+            vertical-align: middle;
+            line-height: 19px;
+            /*border-left: 1px solid rgba(0,0,0,0.1);*/
+            padding-top: 6px;
+        }
+
+        nav a.utility {
+            width: 100px;
+        }
+
+
+/*define new icon*/
+[class^="icontgdd-"], [class*="icontgdd-"], [class^="iconmobile-"], [class*="iconmobile-"] {
+    background-image: url(https://cdn.tgdd.vn/v2015/Content/desktop/images/V4/icondesktop2022@1x_edit.png?v=004);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+    [class^="icontgdd-"], [class*="icontgdd-"], [class^="iconmobile-"], [class*="iconmobile-"] {
+        background-image: url(https://cdn.tgdd.vn/v2015/Content/desktop/images/V4/icondesktop2022@2x_edit.png?v=003);
+        background-size: 500px 100px;
+    }
+}
+
+.icontgdd-logo {
+    background-position: 0 0;
+    width: 156px;
+    height: 30px;
+    display: block;
+    margin: auto;
+}
+
+
+.icontgdd-topsearch {
+    background-position: -160px 0;
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin: 1px auto 0;
+}
+
+.icontgdd-mobile {
+    background-position: -190px 0;
+    width: 16px;
+    height: 25px;
+    display: block;
+    margin: 2px auto 3px;
+}
+
+.icontgdd-tablet {
+    background-position: -209px 0;
+    display: block;
+    margin: 0 auto 5px;
+    width: 33px;
+    height: 22px;
+}
+
+.icontgdd-laptop {
+    background-position: -245px 0;
+    display: block;
+    margin: 0 auto 5px;
+    width: 39px;
+    height: 21px;
+}
+
+.icontgdd-phukien {
+    background-position: -288px 0;
+    display: block;
+    margin: 0 auto 5px;
+    width: 22px;
+    height: 22px;
+}
+
+.icontgdd-maydoitra {
+    background-position: -315px 0;
+    display: block;
+    margin: 0 auto 4px;
+    width: 34px;
+    height: 26px;
+}
+
+.icontgdd-simcard {
+    background-position: -355px 0;
+    display: block;
+    margin: 0 auto 5px;
+    width: 18px;
+    height: 23px;
+}
+
+.icontgdd-news {
+    /*background-position: -375px 0;
+    display: block;
+    margin: 0 auto 2px;
+    width: 29px;
+    height: 24px;*/
+    /*new 2020*/
+    display: block;
+    margin: 0 auto 2px;
+    background-position: -428px -50px;
+    width: 28px;
+    height: 25px;
+}
+
+.icontgdd-ask {
+    background-position: -410px 0;
+    display: block;
+    margin: 0 auto 3px;
+    width: 25px;
+    height: 25px;
+}
+
+.icontgdd-gameapp {
+    /*background-position: -439px 0;*/
+    background-position: -462px -52px;
+    display: block;
+    margin: 0 auto 5px;
+    height: 20px;
+    width: 32px;
+}
+
+.icontgdd-promo {
+    background-position: -475px 0;
+    display: block;
+    margin: 0 auto 3px;
+    width: 22px;
+    height: 24px;
+}
+
+.icontgdd-watch {
+    background-position: -362px -50px;
+    display: block;
+    margin: 0 auto 0px;
+    width: 16px;
+    height: 27px;
+}
+/*footer*/
+.rowfoot1 {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    min-width: 1024px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
+.colfoot {
+    float: left;
+    width: 28%;
+    margin: 0;
+    position: relative;
+}
+
+.collast {
+    width: 11%;
+    float: right;
+}
+
+.colfoot li {
+    float: none;
+    position: relative;
+    font-size: 13px;
+    color: #444;
+}
+
+    .colfoot li a {
+        display: block;
+        color: #288ad6;
+        font-size: 14px;
+        line-height: 25px;
+        padding-top: 5px;
+    }
+
+        .colfoot li a:hover {
+            color: #666;
+        }
+
+        .colfoot li a.bct, .colfoot li a.dmca-badge {
+            display: inline-block;
+        }
+
+    .colfoot li p {
+        display: block;
+        padding-top: 5px;
+        line-height: 25px;
+        font-size: 14px;
+        color: #666;
+    }
+
+        .colfoot li p a {
+            display: inline;
+            font-weight: 600;
+            color: #333;
+            padding: 0 5px;
+        }
+
+    .colfoot li.showmore {
+        font-weight: bold;
+    }
+
+        .colfoot li.showmore a:after {
+            content: '';
+            display: inline-block;
+            width: 0;
+            height: 0;
+            border-top: 5px solid #288ad6;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            margin: 0 0 0 5px;
+            position: relative;
+            top: -2px;
+        }
+
+        .colfoot li.showmore a:hover:after {
+            border-top: 5px solid #666;
+        }
+
+    .colfoot li.hidden {
+        display: none;
+    }
+
+    .colfoot li a.linkfb {
+        float: left;
+        padding: 0 10px 0 0;
+        margin: 9px 0 2px;
+        border-right: 1px solid #e9e9e9;
+        font-size: 12px;
+        line-height: 1;
+        color: #288ad6;
+    }
+
+    .colfoot li a.linkyt {
+        float: left;
+        padding: 0 0 0 10px;
+        margin: 9px 0 2px;
+        font-size: 12px;
+        color: #288ad6;
+        line-height: 1;
+    }
+
+    .colfoot li a.dmx {
+        display: block;
+        overflow: hidden;
+        clear: both;
+        padding: 5px 0;
+    }
+
+
+.rowfoot2 {
+    width: 100%;
+    min-width: 980px;
+    overflow: hidden;
+    background: #f8f8f8;
+    padding: 10px 0;
+}
+
+    .rowfoot2 p {
+        display: block;
+        width: 100%;
+        margin: auto;
+        font-size: 10px;
+        color: #999;
+        text-align: center;
+    }
+
+    .rowfoot2 a {
+        color: #999;
+    }
+
+.icontgdd-share1 {
+    background-position: 0 -30px;
+    width: 13px;
+    height: 13px;
+    margin-right: 3px;
+}
+
+.icontgdd-share3 {
+    background-position: -16px -30px;
+    width: 17px;
+    height: 13px;
+    margin-right: 3px;
+}
+
+.icontgdd-dmx {
+    background-position: -36px -30px;
+    width: 100px;
+    height: 19px;
+}
+
+.icontgdd-bct {
+    background-position: 0 -50px;
+    width: 110px;
+    height: 38px;
+}
+
+.icontgdd-hg {
+    background-position: -384px -49px;
+    width: 45px;
+    height: 38px;
+}
+
+.stickcart {
+    position: fixed;
+    right: 70px;
+    bottom: 42px;
+    background: #fff;
+    border-radius: 40px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.15);
+    font-size: 14px;
+    color: #288ad6;
+    padding: 0 10px 0 0;
+    width: 130px;
+    z-index: 99;
+}
+
+    .stickcart div {
+        float: left;
+        width: 38px;
+        height: 38px;
+        border-radius: 40px;
+        background: #ffde31;
+        margin: 2px 5px 2px 2px;
+    }
+
+    .stickcart span {
+        display: block;
+        padding: 4px 0 0;
+        white-space: nowrap;
+    }
+
+    .stickcart strong {
+        display: block;
+        white-space: nowrap;
+    }
+
+.icontgdd-cartstick {
+    background-position: -265px -30px;
+    width: 22px;
+    height: 18px;
+    display: block;
+    margin: 11px 0 0 6px;
+}
+
+[class^="iconlogo-"], [class*="iconlogo-"] {
+    background-image: url(https://cdn.tgdd.vn/v2015/Content/desktop/images/V4/logosprite@1x.png?v=3);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5) {
+    [class^="iconlogo-"], [class*="iconlogo-"] {
+        background-image: url(https://cdn.tgdd.vn/v2015/Content/desktop/images/V4/logosprite@2x.png?v=3);
+        background-size: 517px 20px;
+    }
+}
+
+.iconlogo-bhx {
+    background-position: -220px 0;
+    width: 90px;
+    height: 19px;
+}
+
+.iconlogo-dmx {
+    background-position: -109px 0;
+    width: 111px;
+    height: 19px;
+}
+
+.iconlogo-ma {
+    background-position: -313px 0;
+    width: 100px;
+    height: 19px;
+}
+
+.iconlogo-ta {
+    background-position: -409px 0;
+    width: 100px;
+    height: 19px;
+}
+
+.group {
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+
+    .group label {
+        display: block;
+        font-size: 12px;
+        color: #888;
+        margin-top: 10px;
+    }
+
+    .group a {
+        display: block;
+        vertical-align: top;
+        padding-top: 0 !important;
+    }
+/*breadcrumb*/
+.breadcrumb {
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    background: #fff;
+    line-height: 32px;
+    padding-top: 5px;
+}
+
+    .breadcrumb li {
+        display: inline-block;
+        vertical-align: middle;
+        overflow: hidden;
+    }
+
+        .breadcrumb li a {
+            display: inline-block;
+            white-space: nowrap;
+            font-size: 14px;
+            color: #288ad6;
+            padding: 0 10px 0 0;
+        }
+
+            .breadcrumb li a span {
+                font-size: 14px;
+                padding: 0px;
+                color: #288ad6;
+            }
+
+    .breadcrumb span {
+        display: inline-block;
+        font-size: 20px;
+        color: #999;
+        padding: 2px 5px 0 0;
+        line-height: 1;
+    }
+
+    .breadcrumb li h1, .breadcrumb li h2 {
+        display: inline-block;
+        font-size: 14px;
+        color: #288ad6;
+        font-weight: normal;
+        line-height: 32px;
+    }
+
+        .breadcrumb li h1 a {
+            color: #288ad6;
+        }
+
+        .breadcrumb li h2 a {
+            padding-left: 2px;
+            color: #288ad6;
+        }
+
+#back-top {
+    display: none;
+    z-index: 99;
+}
+
+    #back-top span:before {
+        cursor: pointer;
+        background: #fdd504;
+        width: 40px;
+        position: fixed;
+        right: 20px;
+        bottom: 45px;
+        height: 40px;
+        text-align: center;
+        line-height: 40px;
+        font-size: 18px;
+        -webkit-transition: all .2s linear;
+        -moz-transition: all .2s linear;
+        -o-transition: all .2s linear;
+        -transition: all .2s linear;
+        color: #000;
+        content: "▲";
+        opacity: 0.7;
+        z-index: 8;
+        border-radius: 5px;
+    }
+
+    #back-top span:hover:before {
+        opacity: 1;
+    }
+
+#dlding, #imgtrack, .none {
+    display: none;
+}
+
+/*#region Suggestion*/
+.wrap-suggestion {
+    display: block;
+    border: 1px solid #e2e2e2;
+    background: white;
+    position: absolute;
+    left: 0;
+    width: 345px;
+    top: 45px;
+    z-index: 9;
+}
+
+    .wrap-suggestion:after,
+    .wrap-suggestion:before {
+        bottom: 100%;
+        left: 80px;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+    }
+
+    .wrap-suggestion:after {
+        border-color: rgba(255, 255, 255, 0);
+        border-bottom-color: #fff;
+        border-width: 8px;
+        margin-left: -8px;
+    }
+
+    .wrap-suggestion:before {
+        border-color: rgba(218, 218, 218, 0);
+        border-bottom-color: #dadada;
+        border-width: 9px;
+        margin-left: -9px;
+    }
+
+    .wrap-suggestion li {
+        display: block;
+        background: white;
+        overflow: hidden;
+        list-style: none;
+        border-bottom: 1px dotted #ccc;
+    }
+
+        .wrap-suggestion li.link {
+            border: none;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+            .wrap-suggestion li.link:first-child {
+                margin-top: 6px;
+            }
+
+            .wrap-suggestion li.link.last {
+                margin-bottom: 6px;
+            }
+
+            .wrap-suggestion li.link a {
+                font-size: 14px;
+                color: #3b7adb;
+            }
+
+        .wrap-suggestion li.text {
+            background-color: #f5f5f5;
+            color: #666;
+            font-size: 13px;
+            border: none;
+            padding: 7px 10px;
+        }
+
+        .wrap-suggestion li:last-child {
+            border-bottom: 0;
+        }
+
+        .wrap-suggestion li:hover, .wrapp-producthome .wrap-suggestion li.selected, .wrap-main .wrap-suggestion li.selected {
+            background: #f8f8f8;
+        }
+
+        .wrap-suggestion li a {
+            display: block;
+            overflow: hidden;
+            padding: 6px;
+            color: #333;
+            font-size: 12px;
+        }
+
+            .wrap-suggestion li a img {
+                float: left;
+                width: 50px;
+                height: auto;
+                margin: 0 6px 0 0;
+            }
+
+            .wrap-suggestion li a h3 {
+                display: block;
+                width: auto;
+                color: #333;
+                font-size: 14px;
+                font-weight: 700;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .wrap-suggestion li a h6 {
+                font-size: 12px;
+                color: #e67e22;
+            }
+
+            .wrap-suggestion li a span {
+                float: left;
+                font-size: 13px;
+                color: #333;
+            }
+
+            .wrap-suggestion li a cite {
+                font-size: 12px;
+            }
+
+            .wrap-suggestion li a span.price {
+                font-size: 12px;
+                color: #c70100;
+                float: none;
+            }
+
+            .wrap-suggestion li a label {
+                display: block;
+                font-size: 12px;
+                color: #999;
+                padding-left: 56px;
+            }
+
+                .wrap-suggestion li a label strong {
+                    font-size: 12px;
+                    color: #d0021b;
+                }
+
+        .wrap-suggestion li.samsung img {
+            display: inline-block;
+            vertical-align: middle;
+            width: 80px;
+        }
+
+        .wrap-suggestion li.samsung b {
+            display: inline-block;
+            vertical-align: middle;
+            color: #333;
+        }
+        /*#endregion*/
+
+        /*#region giá rẻ online kèm KM*/
+        .wrap-suggestion li a .cheappriceonline {
+            color: #e67e22;
+            font-size: 12px;
+        }
+
+            .wrap-suggestion li a .cheappriceonline cite {
+                color: #333;
+            }
+
+        .wrap-suggestion li a .promo img {
+            display: none
+        }
+/*#endregion*/
+
+/*#region Đánh giá giao hàng*/
+
+.wrap_rts {
+    overflow: hidden;
+    position: fixed;
+    z-index: 11;
+    bottom: 0;
+    right: 10%;
+}
+
+    .wrap_rts .pop {
+        display: block;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        max-width: 400px;
+        margin: auto;
+        background: #fff;
+        margin-top: 20%;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        border: solid 1px #ccc;
+    }
+
+        .wrap_rts .pop .hdpop {
+            padding: 10px 0 10px 10px;
+            border-bottom: solid 1px #ccc;
+            font-size: 15px;
+            background: #f89406;
+            color: #fff;
+        }
+
+            .wrap_rts .pop .hdpop .closehd {
+                float: right;
+                color: #fff;
+                border: solid 1px #fff;
+                height: 25px;
+                width: 25px;
+                border-radius: 50%;
+                position: absolute;
+                top: 5px;
+                right: 10px;
+                font-size: 13px;
+                text-align: center;
+                cursor: pointer;
+                font-style: normal;
+                box-sizing: border-box;
+                padding-top: 3px;
+            }
+
+        .wrap_rts .pop .if {
+            display: block;
+            padding: 10px 10px 0;
+        }
+
+            .wrap_rts .pop .if .price {
+                color: #d0021b;
+            }
+
+        .wrap_rts .pop .ivt {
+            display: block;
+            padding: 10px 10px 0;
+            text-align: center;
+        }
+
+        .wrap_rts .pop ul.ol {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+            .wrap_rts .pop ul.ol li {
+            }
+
+                .wrap_rts .pop ul.ol li .iprn {
+                    color: #288ad6;
+                }
+
+                    .wrap_rts .pop ul.ol li .iprn:before {
+                        content: '•';
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-size: 20px;
+                        color: #999;
+                        margin-right: 5px;
+                    }
+
+                .wrap_rts .pop ul.ol li .iprp {
+                    color: #d0021b;
+                    float: right;
+                }
+
+        .wrap_rts .pop ul.rtt {
+            padding: 10px;
+            overflow: hidden;
+        }
+
+            .wrap_rts .pop ul.rtt li {
+                text-align: center;
+                float: left;
+                width: 33%;
+                color: #288ad6;
+                cursor: pointer;
+            }
+
+                .wrap_rts .pop ul.rtt li img {
+                    display: block;
+                    width: 40px;
+                    height: 40px;
+                    margin: 0 auto 10px;
+                }
+
+        .wrap_rts .pop .chsRtUstf {
+            border-radius: 5px;
+            border: solid 1px #ccc;
+            overflow: hidden;
+            margin: 10px;
+            padding: 10px;
+        }
+
+            .wrap_rts .pop .chsRtUstf span {
+                display: block;
+                text-align: center;
+                margin: 0 0 10px;
+            }
+
+
+            .wrap_rts .pop .chsRtUstf a.chbUt {
+                display: block;
+                width: 50%;
+                float: left;
+                color: #288ad6;
+                padding: 10px 0;
+            }
+
+                .wrap_rts .pop .chsRtUstf a.chbUt i {
+                    margin: 0 8px;
+                }
+
+                .wrap_rts .pop .chsRtUstf a.chbUt span {
+                    display: inline;
+                }
+
+            .wrap_rts .pop .chsRtUstf a.btnRsUs {
+                padding: 8px;
+                background: #288ad6;
+                color: #fff;
+                border-radius: 5px;
+                text-align: -webkit-center;
+                width: 75px;
+                margin: 10px auto 0;
+                display: -webkit-box;
+            }
+
+        .wrap_rts .pop .msg {
+            margin: 10px 0 20px;
+        }
+
+        .wrap_rts .pop .btnRs {
+            padding: 8px;
+            background: #fff;
+            color: #288ad6;
+            border: solid 1px #288ad6;
+            border-radius: 5px;
+            text-align: -webkit-center;
+            width: 75px;
+            margin: 10px auto 0;
+            display: -webkit-box;
+        }
+
+    .wrap_rts .iconmobile-uncheckbox {
+        background-position: -145px -30px;
+        width: 16px;
+        height: 16px;
+        vertical-align: sub;
+    }
+
+    .wrap_rts .iconmobile-checkbox {
+        background-position: -165px -30px;
+        width: 16px;
+        height: 16px;
+        vertical-align: sub;
+    }
+
+.hide {
+    display: none !important;
+}
+
+/*#endregion*/
+
+
+/**/
+@media screen and (max-width: 1220px) {
+    .wrap-main {
+        width: 1024px;
+    }
+
+    .logo {
+        width: 35px;
+    }
+
+        .logo a img {
+            display: none;
+        }
+
+    .icontgdd-logo {
+        width: 28px;
+    }
+
+    #search-site {
+        width: 200px;
+    }
+
+    .topinput {
+        width: 152px;
+    }
+
+    nav {
+        width: 764px;
+    }
+
+        nav a {
+            font-size: 11px;
+        }
+
+    .colfoot li a {
+        padding: 0 0 0 5px;
+        line-height: 30px;
+    }
+
+    .colfoot {
+        width: 26.5%;
+    }
+
+    .collast {
+        width: 13%;
+    }
+
+    .colfoot li a.bct {
+        padding: 0;
+    }
+
+    .breadcrumb {
+        margin: 0 10px;
+    }
+}
+
+#search-site .wrap-suggestion-b2b {
+    display: none;
+}
+
+/*region text chỉ bán online*/
+.wrap-suggestion li a h6.textOLOL {
+    color: #d0021b;
+}
+
+/*endregion*/
+
+
+/*region icon game app va gop menu sim , dong tien*/
+.mix-menu {
+    position: absolute;
+    right: 0;
+    display: none;
+    width: 100%;
+    margin-top: 3px;
+}
+
+    .mix-menu a {
+        display: block;
+        width: 100%;
+        height: 44px;
+        padding: 6px 0 4px;
+        color: #000;
+        background: #fed700;
+        font-size: 13px;
+        text-align: center;
+        position: relative;
+        border-top: 1px solid rgba(0,0,0,0.1);
+        text-transform: none;
+    }
+
+        .mix-menu a.cardsim {
+            line-height: 44px;
+        }
+
+        .mix-menu a:hover {
+            border-top: 1px solid rgba(0,0,0,0.1);
+            background-color: #EEEEEE;
+        }
+
+#utility-cardsim {
+    width: 100px;
+    height: 36px;
+    padding: 15px 5px 4px;
+    color: #000;
+    background: #fed700;
+    background-color: rgb(254, 215, 0);
+    font-size: 13px;
+    text-align: center;
+    display: inline-block;
+    border-left: 1px solid rgba(0,0,0,.1);
+    position: relative;
+}
+
+    #utility-cardsim:hover .mix-menu {
+        display: block;
+    }
+
+    #utility-cardsim:hover #utility-cardsim {
+        background-color: #fed700;
+    }
+
+    #utility-cardsim:hover {
+        background-color: #f5f5f5;
+    }
+
+/*endregion icon game app va gop menu sim , dong tien*/
+</style>
+
+    
+    
+    
+    
+    <style>
+
+[class^="iconask-"],[class*="iconask-"]{background-image:url(//cdn.tgdd.vn/hoi-dap/Content/desktop/images/icon-ask@1x.png?v=2);background-repeat:no-repeat;display:inline-block;height:30px;width:30px;line-height:30px;vertical-align:middle}[class^="iconcate-"],[class*="iconcate-"]{background-image:url(//cdn.tgdd.vn/hoi-dap/Content/desktop/images/icon-cate@2x.png?v=2);background-repeat:no-repeat;display:inline-block;height:30px;width:30px;line-height:30px;vertical-align:middle;background-size:35px 200px}@media all and (-webkit-min-device-pixel-ratio:1.5){[class^="iconask-"],[class*="iconask-"]{background-image:url(//cdn.tgdd.vn/hoi-dap/Content/desktop/images/icon-ask@2x.png?v=1);background-size:250px 66px}}.topbarask{display:block;height:40px;background:#fff;padding:10px 0}.topbarask h1{float:left;overflow:hidden;line-height:40px;font-size:18px;color:#333;font-weight:600;text-transform:uppercase}.area_user{float:right;height:20px;padding:10px 0;position:relative}.yourname{float:left;font-weight:600;color:#333;padding:3px 20px 0 0}.yourname:after{content:'';width:1px;height:18px;background:#eee;margin-left:20px;float:right}.your_ask{float:left;margin:0 20px 0 0}.your_ask:after{content:'';width:1px;height:18px;background:#eee;margin-left:20px;float:right}.your_ask span{display:inline-block;vertical-align:middle;color:#333}.your_ask i{font-style:normal;display:inline-block;vertical-align:middle;background:#ff3b30;border-radius:20px;padding:2px 8px;font-size:11px;color:#fff}.logout,.login{float:right;color:#333}.loginwith{display:none;overflow:visible;position:absolute;top:40px;right:0;z-index:9;padding:10px;width:280px;background:#fff;border-radius:3px;border:1px solid #ddd;box-shadow:0 1px 10px 0 rgba(0,0,0,.2)}.loginwith:before,.loginwith:after{bottom:100%;right:24px;content:" ";height:0;width:0;position:absolute;border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid #ddd}.loginwith:after{border-width:9px;border-bottom-color:#fff;margin-right:1px}.loginwith .fb{display:block;overflow:hidden;padding:12px 10px;border-radius:4px;margin:10px 0;font-size:16px;color:#fff;background:#3a66c3;background:-webkit-gradient(linear,0% 0%,0% 100%,from(#3b5998),to(#3a66c3));background:-webkit-linear-gradient(top,#3a66c3,#3b5998);background:-moz-linear-gradient(top,#3a66c3,#3b5998);background:-ms-linear-gradient(top,#3a66c3,#3b5998);background:-o-linear-gradient(top,#3a66c3,#3b5998)}.loginwith .fb span{float:left;font-size:25px;color:#fff;font-family:Tahoma;font-weight:600;margin:0 20px}.loginwith .gp{display:block;overflow:hidden;padding:12px 10px;border-radius:4px;margin-bottom:10px;font-size:16px;text-align:center;color:#fff;background:#e3411f;background:-webkit-gradient(linear,0% 0%,0% 100%,from(#e3411f),to(#3a66c3));background:-webkit-linear-gradient(top,#e3411f,#c32808);background:-moz-linear-gradient(top,#e3411f,#c32808);background:-ms-linear-gradient(top,#e3411f,#c32808);background:-o-linear-gradient(top,#e3411f,#c32808)}.loginwith .gp span{float:left;font-size:32px;color:#fff;font-family:initial;margin:-6px 20px 0}.loginwith p{display:block;overflow:hidden;font-size:12px;color:#666}.ask_left{float:left;overflow:hidden;width:73.334%;margin:10px 0}.highlight{display:block;overflow:hidden;margin-bottom:20px}.highlight a{display:inline-block;vertical-align:top;width:19.9%}.highlight img{display:block;width:100%;max-width:164px}.highlight a:nth-child(5){float:right;width:18.5%}.col_topic{float:left;overflow:hidden;width:28.5%}.col_topic h2,.col_topic h4{display:block;overflow:hidden;line-height:1.3em;font-size:16px;padding:0 0 10px;border-bottom:1px solid #eee;text-transform:uppercase}.highlight_topic{display:block;overflow:hidden;margin-bottom:15px}.sptopic{margin-bottom:5px}.highlight_topic li{display:block;overflow:hidden;border-bottom:1px solid #eee}.highlight_topic li:last-child{border:0}.highlight_topic li label{display:block;overflow:hidden;padding:8px 0}.highlight_topic li h3{display:inline-block;overflow:hidden;vertical-align:middle}.highlight_topic li h3 a:hover{color:#288ad6}.highlight_topic li h3.activecate{font-weight:bold}.highlight_topic li h3.activecate a{color:#333;font-weight:bold}.highlight_topic li:hover h3{color:#288ad6}.highlight_topic li img{float:left;margin-right:10px;width:70px;height:70px}.highlight_topic li .linksp{border:0;margin-bottom:10px}.highlight_topic li strong{display:block;overflow:hidden;line-height:1.3em;color:#288ad6}.highlight_topic li label.linksp span{display:block;font-size:16px;color:#c10017;margin-top:5px}.highlight_topic li>ul{border:1px solid #d3d3d3;padding:10px;position:relative;display:none}.highlight_topic li>ul:before{bottom:100%;left:49px;content:" ";height:0;width:0;position:absolute;border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid #ddd}.highlight_topic li>ul:after{bottom:100%;left:50px;content:" ";height:0;width:0;position:absolute;border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid #ddd;border-width:9px;border-bottom-color:#fff;margin-right:1px}.iconask-android{background-position:0 0;margin-right:5px}.iconask-ios{background-position:-35px 0;margin-right:5px}.iconask-win{background-position:-70px 0;margin-right:5px}.iconask-pc{background-position:-105px 0;margin-right:5px}.iconask-consult{background-position:-140px 0;margin-right:5px}.iconask-wiki{background-position:-175px 0;margin-right:5px}.iconask-gametips{background-position:-176px -32px;margin-right:5px}.iconcate-watch{background-position:-2px 0;margin-right:5px}.iconcate-print{background-position:-2px -32px;margin-right:5px}.iconcate-glass{background-position:-2px -65px;margin-right:5px}.iconcate-dm{background-position:-2px -100px;margin-right:5px}.iconsocial{background-image:url(/hoi-dap/Content/desktop/images/social.png);background-repeat:no-repeat;display:inline-block;height:30px;width:30px;line-height:30px;vertical-align:middle;margin-right:5px}.highlight_topic li .subtopic{display:block;overflow:visible;position:relative;top:0;margin-bottom:15px;border:1px solid #d9d9d9;box-shadow:0 1px 3px 0 rgba(0,0,0,.1)}.highlight_topic li .subtopic:before,.highlight_topic li .subtopic:after{content:'';width:0;height:0;position:absolute;bottom:100%;left:50px;border-bottom:10px solid #d9d9d9;border-left:10px solid transparent;border-right:10px solid transparent}.highlight_topic li .subtopic:after{border-bottom-color:#fff;border-width:9px;margin-left:1px}.highlight_topic .subtopic a{border-bottom:1px solid #d9d9d9;color:#333;padding:12px 10px;font-size:12.5px;display:block;overflow:hidden}.highlight_topic .subtopic a.acttopic{font-weight:600;border-left:solid 3px #288ad6}.highlight_topic .subtopic a:hover{color:#288ad6}.highlight_topic .subtopic a span{float:right;color:#666}.highlight_topic li label:last-child{border:0}.highlight_topic li label:last-child::after{display:none}.highlight_topic li label:after{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAOCAYAAAA45qw5AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAi9JREFUOE+tk01rE0EYx7MbMbZePIlR8SsIQhFE8eBZJOKhUqwearKE5BDMoQpihB4UL0Igb6BSSimtFbF+AcVLoeDJDyBoYw9CDyHFhLz4e2aeXZUkZn35we48859n5z/PzKzjed61Xq/3KGJ5UKvVHmv8X0mlUnma+X6/36a97SSTyV2CQzIoOI6zHI/H5wqFwjeV/olcLjfRbDafEk5bxXjsurzWtG9gRTP1ev1NOp0+otJfk8lkjmL6ljAwFfBYcyuViof5gmo+pzudzha7cUr7fwwLn2q321uEU1Yx9PG6x3F6jgpyBldZiWzJAasY9nhukPjcdsPBvZmWuXgmVBL2XNedpdAX0nGNBNVqdYWB84RfrGKY5FllogKTBIscheSwSwtc1pWfTanyE3Of9U2Fgcmy2ezxVqv1ivCXbebjdSa7TvWyCwPk8/mDjUZjiZyESga+24xGo4lSqbSjkmFoFax6kg8WmeSKSj7vY7HYpWKx+Fn7BvJPkL9B/kmVfJbIv0l+S/sBI7ePSRzO/T7hXatYMNhh2xLlcnlT+lyiM91u9yX5h00CkNOjucPxPbTKIGPPTS4KZ/aMMLh0TCwVzNHuY6xKvN8MWBroM5i+1v5QxhoL8mvwe8m5x60yHAw/8lzkEn1QaSShjAUqP0Z1G4RD/20M37Hdl7l8X1X6LcHvNA6q2KY5h8G6VX6A9gTTC2FNhdAV+8ilo/p5wlvE25iWOc+KHQ1LJPIdi+3i7AUil8gAAAAASUVORK5CYII=');height:7px;width:15px;display:inline-block;content:" ";float:right;background-size:contain;margin:10px 0 0 0;cursor:pointer}.highlight_topic li.mn label:after{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAOCAYAAAA45qw5AAAABGdBTUEAALGPC/xhBQAAAiRJREFUOBGtk01LW0EUhjO3t6kY0lUXGhX8AW40KV0Use6E0iBYxU0QFfIFgW5Ku9FCoZhFXSXkqxuRFl2Imp24EoUumkRw4w8Qv/AHaBNC0mcgEybWG+PHhbnnzDvnvO+ZOTPCdo8vEAgEq9VqSAjRRfpiKpWK4lfvQiXuEuz3+58ikER0Vs8DWwObymQylzrezG9ZGNEXCKwjMGhBuG8Yhpfdn1isN8BGw8xiEgwG+xDNNRGVmQOVSiUXDodfWtA0wLcK0893EP5GtFfLLLG7aYrxMYoa3lkul3cpdFLDbnSbCiP6iaxNhlNlI3RhmuYwR7qUTqd/UsAbsHO1jm2j0BVa85ViLVt540IkEnlWLBZ/QOLTCG0IHEDm5RId6Tjx3cRnwQZ0nHjLS/ffjulRR6lU2oHguuiG0+l8fV1UCsVisWPMoBSSc/VR5Hv8PVmYwpRt2DG96Sc4y+hRATX7jWOdg7jpWyVPhEKhLxz1PHk69xktGaU9fxRvfRHRMRKWWWivLwpxhdgMCasKa8XS33Hilhh1Lvy/kosNrODbnsgfl2ieahO4djmvfadcopFkMrmtgFZtoVA4dLvdW8S/ZTyv5ZnYMY/HY+bz+R1BdSmAQG1RmZzdbh+Nx+OnCriPlfeF5yVfxSs9n51nDH4TOoi/6nA4hh4qKjkTicS5y+WSz+2XrsHpTsgdTwEusCiPOUoPvutBj+Wj8wGuz5KPi/bxH4WvzTLEXb1kAAAAAElFTkSuQmCC');width:15px;display:inline-block;content:" ";float:right;background-size:contain;margin:10px 0 0 0;cursor:pointer}.ask_sp{display:block;overflow:hidden;margin-bottom:15px}.ask_sp a{display:block;overflow:hidden;border-top:1px solid #eee;padding:8px 0}.ask_sp a:first-child{border:0}.ask_sp a img{float:left;width:50px;height:50px;margin-right:10px}.ask_sp a h3{display:block;overflow:hidden;line-height:1.3em;color:#333;margin-bottom:5px}.ask_sp a:hover h3{color:#288ad6}.ask_sp a span,.ask_sp a label{display:inline-block;vertical-align:top;color:#288ad6;font-size:12px}.ask_sp a label:before{content:"•";display:inline-block;font-size:14px;color:#999;margin-right:3px}.search_sp{display:block;height:40px;border:1px solid #eee;border-radius:4px;position:relative}.search_sp input{display:block;width:100%;border:0;padding:10px 0;text-indent:10px;background:#fff;height:20px;border-radius:4px}.search_sp button{position:absolute;top:0;right:0;width:40px;height:40px;background:#fff;border:0;border-radius:4px;cursor:pointer}.iconask-search{background-position:-20px -35px;width:16px;height:16px}.member{display:block;overflow:hidden}.member a{display:block;overflow:hidden;padding:6px 0}.member img{float:left;width:20px;height:20px;border-radius:20px;margin-right:10px}.member span{float:left;font-size:14px;color:#333}.member a:hover span{color:#288ad6}.member label{float:right;font-size:12px;color:#666;padding:1px 0}.col_content{float:right;overflow:hidden;width:68.5%}.search_ask{display:block;border:1px solid #eee;position:relative;border-radius:3px;margin-bottom:10px;background-color:#fff4df;padding:10px}.search_ask input{display:block;width:100%;padding:10px 0;height:18px;border:0;text-indent:30px;border-radius:3px}.search_ask button{position:absolute;top:10px;right:10px;border-radius:0 3px 3px 0;border:0;background:#288ad6;font-size:16px;color:#fff;text-transform:uppercase;padding:0 10px;height:38px;cursor:pointer}.search_ask .trend{margin:10px 0 0;line-height:1.8em;word-break:break-word}.search_ask .trend a{color:#288ad6;margin:0 7px}.search_ask .trend a:hover{text-decoration:underline}.iconask-searchask{background-position:0 -35px;width:16px;height:16px;position:absolute;top:20px;left:18px}.asklatest{display:block;overflow:hidden;line-height:1.3em;font-size:18px;text-transform:uppercase;color:#333;font-weight:600;border-bottom:1px solid #eee;padding:10px 0}.tabs{display:block;overflow:hidden;margin:15px 0 10px}.tabs a{float:left;width:49.6%;padding:15px 0;font-size:18px;color:#288ad6;text-transform:uppercase;text-align:center;border-top:4px solid #fff;border-left:1px solid #fff;border-right:1px solid #fff;border-bottom:1px solid #eee}.tabs a h2{font-size:18px;color:#288ad6}.tabs a:hover h2{color:#333}.tabs a.acttab{border-top-color:#288ad6;border-left-color:#eee;border-right-color:#eee;border-bottom:1px solid #fff}.tabs a.acttab,.tabs a.acttab h2{font-weight:600;color:#333}.tabs a:hover{color:#333}.listask{display:block;overflow:auto}.listask li{display:block;overflow:hidden;padding:10px 0;border-bottom:1px solid #eee}.listask li a{display:block;overflow:hidden}.listask li img{float:left;width:180px;height:100px;margin-right:10px}.listask li h3{display:block;overflow:hidden;line-height:1.3em;color:#333;font-size:16px;font-weight:600}.listask li:hover h3{color:#288ad6}.listask li p{display:block;overflow:hidden;line-height:20px;color:#333;margin:5px 0;max-height:40px}.listask li div{display:block;overflow:hidden;font-size:14px;color:#999}.listask li span{display:inline-block;color:#999;vertical-align:middle}.listask li label{display:inline-block;vertical-align:middle;color:#999;cursor:pointer}.listquest{display:none}.yourquestion{display:block;overflow:hidden}.yourquestion li{display:block;overflow:hidden;border-bottom:1px solid #eee;padding:10px 0}.yourquestion li a{display:block;overflow:hidden}.yourquestion li p{display:block;overflow:hidden;line-height:1.3em;color:#333}.yourquestion li div{display:block;overflow:hidden;margin-top:10px;font-size:12px;color:#999}.yourquestion li div img{display:inline-block;width:20px;height:20px;border-radius:20px;margin-right:10px;vertical-align:middle}.yourquestion li div span{display:inline-block;vertical-align:middle;margin-left:10px;color:#999;font-size:12px}.yourquestion li div span i{margin-right:5px}.yourquestion li div label{display:inline-block;vertical-align:middle;margin-left:10px;color:#999;font-size:12px}.yourquestion li div label:before{content:"•";display:inline-block;font-size:14px;vertical-align:middle;margin:0 10px 0 0;color:#999}.review li div label{margin-left:0;margin-right:5px}.review li div label:before{content:'';margin:0}.review li div span:before{content:"•";display:inline-block;font-size:14px;margin:0 5px 0 0;color:#999}.review li div span.ncom{color:#f89406}.review li div span.ncom .iconask-com{background-position:-95px -35px}.review li:last-child{border:0}.viewmore{display:block;overflow:hidden;padding:10px 0;text-align:center;font-size:14px;color:#fff;background:#288ad6;border-radius:4px;margin:10px 0}.viewmore:after{content:'';width:0;height:0;border-top:6px solid #fff;border-left:6px solid transparent;border-right:6px solid transparent;display:inline-block;margin:0 0 0 5px;position:relative;top:-2px}.sp_search{display:block;overflow:hidden;border-bottom:1px solid #eee}.sp_search a{float:left;width:50%;overflow:hidden;padding:8px 0}.sp_search a:first-child{border:0}.sp_search a img{float:left;width:50px;height:50px;margin-right:10px}.sp_search a h3{display:block;overflow:hidden;line-height:1.3em;color:#333;margin-bottom:5px}.sp_search a:hover h3{color:#288ad6}.sp_search a span,.sp_search a label{display:inline-block;vertical-align:top;color:#288ad6;font-size:12px}.sp_search a label:before{content:"•";display:inline-block;font-size:14px;color:#999;margin-right:3px}.ask_right{float:right;overflow:hidden;width:25%;margin:10px 0}.area_input{display:block;overflow:hidden;border:1px solid #ddd;border-radius:3px;padding:6px;min-height:150px;position:relative}.area_input img.avIq{float:left;width:34px;height:34px;margin-right:10px}.area_input .question{display:block;overflow:hidden;font-size:14px;color:#333;cursor:pointer}.area_input .question span{display:block;color:#999;padding:8px 0;min-height:100px}.area_input #txtContentQS{display:block;overflow:hidden;padding:5px 5px 80px;box-sizing:border-box}.area_input #txtContentQS img{max-width:100%;height:auto}.area_input #txtContentQS:focus{border:none;outline:1px solid transparent}.area_input #lberror{color:#f00;display:block;overflow:hidden;border-top:1px solid #ddd;height:40px;position:absolute;left:0;right:0;bottom:20px;width:100%;padding:10px 5px;font-size:12.5px}[contenteditable=true]:empty:before{content:attr(placeholder);display:block;color:#999}.barsend{display:block;overflow:hidden;border-top:1px solid #ddd;height:41px;position:absolute;left:0;right:0;bottom:0;width:100%}.barsend a{float:left;overflow:hidden;padding:2px 12px;font-size:11px;color:#288ad6;border-right:1px solid #ddd}.iconask-pic{background-position:-210px 0;width:20px;height:16px;display:block;margin:4px auto 0}.barsend button{float:right;padding:0 16px;margin:6px;background:#288ad6;border-radius:3px;text-transform:uppercase;border:0;height:28px;color:#fff;cursor:pointer}.newquestion{display:block;overflow:hidden;border:1px solid #ddd;border-radius:3px;padding:8px;margin-top:20px}.newquestion h4{display:block;overflow:hidden;font-size:16px;text-transform:uppercase;padding:6px 0 10px 0}.newquestion a{display:block;overflow:hidden;padding:10px 0;border-top:1px solid #ddd}.newquestion a h3{display:block;overflow:hidden;line-height:1.3em;color:#333}.newquestion a h3:hover{color:#288ad6}.newquestion div{display:block;overflow:hidden;font-size:12px;color:#999;margin-top:5px}.newquestion div img{display:inline-block;vertical-align:middle;width:20px;height:20px;border-radius:20px;margin-right:5px}.newquestion div span:before{content:'•';display:inline-block;font-size:14px;vertical-align:middle;margin:0 3px}.hotweek{display:block;overflow:hidden;margin-top:10px}.hotweek h4{display:block;overflow:hidden;font-size:16px;text-transform:uppercase;padding:6px 0 0 0}.hotweek a{display:block;overflow:hidden;padding:10px 0;border-bottom:1px solid #ddd}.hotweek a:last-child{border:0}.hotweek a h3{display:block;overflow:hidden;line-height:1.3em;color:#333}.hotweek a:hover h3{color:#288ad6}.hotweek a h3 span{display:inline-block;color:#999;margin:0 0 0 3px}.hotweek a h3 span.ncom{color:#f89406}.iconask-com{background-position:-80px -35px;width:12px;height:10px}.hotweek a h3 span.ncom .iconask-com{background-position:-95px -35px;margin-right:5px}.hotweek a img{float:left;width:125px;height:70px;margin-right:10px}.hotweek a.first-child img{float:none;display:block;width:100%;height:auto;margin:0 0 10px 0}article{display:block;overflow:hidden;border:1px solid #d9d9d9;border-radius:4px;padding:10px}article h1{display:block;overflow:hidden;line-height:1.3em;font-size:30px;font-weight:500;color:#333}article h2{font-size:20px;margin:10px 0;color:#333;line-height:28px}article h2 a{font-size:20px}article h3{font-size:18px}article h3 a{font-size:18px}article p{display:block;overflow:hidden;font-size:16px;line-height:26px;margin:10px 0}article img{display:block;max-width:100%;height:auto;margin:15px auto}article .divContent img{min-height:200px}article .divContent .products img{min-height:unset}article strong a{font-weight:bold}.rowuser{display:block;overflow:hidden;padding:10px 0;border-bottom:1px solid #d9d9d9;font-size:12px;color:#999}.rowuser img{display:inline-block;vertical-align:middle;width:20px;height:20px;border-radius:20px;margin:0 5px 0 0}.rowuser span{display:inline-block;vertical-align:middle}.rowuser span:before{content:'•';display:inline-block;font-size:14px;vertical-align:middle;margin:0 3px;color:#999}.rowuser span.numcmt{color:#288ad6;cursor:pointer}.ratingres{float:right}.ratingres label{display:inline-block;vertical-align:text-bottom;cursor:pointer}.ratingres label.star .iconask-star{background-position:-60px -35px}.rating{float:right;overflow:hidden;font-size:14px;color:#333;margin:0 0 0 10px}.rating label{display:inline-block;vertical-align:text-bottom;cursor:pointer}.rating span{margin-right:10px}.rating .d{margin-top:10px}.rating .d .btnRt{background-color:#288ad6;color:#fff;padding:5px;display:inline-block;border-radius:3px}.rating .d .lblRt{background-color:#52b858;color:#fff;padding:5px;display:inline-block;border-radius:3px;float:right;position:relative}.rating .d .lblRt:before{content:"";position:absolute;border-style:solid;border-width:7px 7px;border-color:transparent transparent #52b858 transparent;left:40%;top:-14px}.rating .r{background-color:#f89406;color:#fff;padding:5px;display:inline-block;border-radius:3px}.iconask-star{background-position:-40px -35px;width:14px;height:14px}.rating label.star .iconask-star{background-position:-60px -35px}.recommendask{display:block;overflow:visible;position:relative;top:-1px;background:#fffef0;border:1px solid #f0d8a0;padding:10px}.recommendask:before,.recommendask:after{content:'';width:0;height:0;position:absolute;bottom:100%;left:50px;border-bottom:10px solid #f0d8a0;border-left:10px solid transparent;border-right:10px solid transparent}.recommendask:after{border-bottom-color:#fffef0;border-width:9px;margin-left:1px}.alert{display:block;overflow:hidden}.iconask-flag{background-position:-155px -35px;width:14px;height:18px}.recommendask a{display:block;overflow:hidden;margin:10px 0 0}.recommendask a img{float:left;width:180px;height:100px;margin:0 15px 0 0}.recommendask h3{display:block;overflow:hidden;line-height:1.3em;font-size:16px;color:#288ad6;font-weight:600}.recommendask figure{display:block;overflow:hidden;color:#333}.rowcount{display:block;overflow:hidden;padding:10px 0;float:left}.rowcount .likeshare{float:left}.rowcount .articleview{float:left;font-size:14px;color:#f89406}.iconask-view{background-position:-135px -35px;width:18px;height:10px;margin:0 5px}.rowcount .yourrate{float:right;font-size:14px;color:#333}.yourrate label i{display:inline-block;vertical-align:text-top}.yourrate label:hover .iconask-star{background-position:-60px -35px;cursor:pointer}.yourrate label:focus .iconask-star{background-position:-60px -35px;cursor:pointer}.titlerelate{display:block;overflow:hidden;line-height:1.3em;font-size:18px;text-transform:uppercase;color:#333;font-weight:600;padding:10px 0}.askrelate{display:block;overflow:hidden}.askrelate li{float:left;overflow:hidden;width:32.3%;margin-right:1.3%;margin-bottom:15px;max-height:155px}.askrelate li img{display:block;margin:auto;width:170px;height:95px}.askrelate li a{display:block;overflow:hidden}.askrelate li h3{display:block;overflow:hidden;line-height:1.3em;color:#333;max-width:170px;margin:5px auto 0;font-size:14px;min-height:54px}.askrelate li:hover h3{color:#288ad6}.askrelate li:nth-child(3n+1){clear:left}.askrelate li:nth-child(3n+3){float:right;margin-right:0}.sugguest{display:none;overflow:visible;padding:0 10px 5px;background:#fff;box-shadow:0 5px 7px 0 rgba(0,0,0,.1);border-radius:3px;border:1px solid #d9d9d9;position:absolute;top:43px;left:-1px;right:91px}.sugguest li{display:block;overflow:hidden;border-bottom:1px solid #d9d9d9}.sugguest li:last-child{border:0}.sugguest li a{display:block;overflow:hidden;padding:10px 0;font-size:14px;color:#333}.sugguest li a:hover{color:#288ad6}.sugguest li h3{display:block;overflow:hidden;line-height:1.3em;color:#333;font-weight:600}.sugguest li:hover h3{color:#288ad6}.sugguest li span{display:block;overflow:hidden;font-size:12px;color:#999;margin-top:5px}.sugguest li img{float:left;width:40px;height:40px;margin-right:10px}.sugguest:before,.sugguest:after{content:'';width:0;height:0;position:absolute;bottom:100%;left:50px;border-bottom:10px solid #d9d9d9;border-left:10px solid transparent;border-right:10px solid transparent}.sugguest:after{border-bottom-color:#fff;border-width:9px;margin-left:1px}.lstSearchProductFAQ{display:block;margin:10px auto 0 !important;border:1px solid #e2e2e2;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;background:#fff;z-index:999;position:relative}.lstSearchProductFAQ:before{bottom:100%;left:65px;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none;border-bottom-color:#e2e2e2;border-width:10px;margin-left:-9px}.lstSearchProductFAQ li{display:block;overflow:hidden;border-bottom:1px dashed #dcdcdc;padding:5px 0 10px;margin-bottom:5px;padding-bottom:15px}.lstSearchProductFAQ li:hover{background:#4a90e2}.lstSearchProductFAQ li a{position:relative;display:block;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;padding:0 6px;color:#666}.hide{display:none !important}.ui-icon{width:16px;height:16px}.infoprod{display:block;overflow:hidden;border:1px solid #eee;padding-bottom:15px;width:30%;float:left;box-sizing:border-box;min-height:250px;padding:10px}.infoprod h3,.infoprod h2{display:block;overflow:hidden;line-height:1.3em;font-size:15px;font-family:Arial,Helvetica,sans-serif,'Roboto Condensed';color:#333;font-weight:600;min-height:20px}.infoprod strong{font-family:Arial,Helvetica,sans-serif,'Roboto Condensed';display:block;overflow:hidden;padding:10px 0;font-size:18px;color:#d0021b;font-weight:300}.infoprod img{width:120px;margin-right:10px}.infoprod span{display:block;overflow:hidden;font-size:14px;color:#333;line-height:24px}.infoprod a{display:block;overflow:hidden;font-size:14px;color:#288ad6;line-height:22px}.infoprod figure{font-size:13px;line-height:20px}.seo{padding:10px}.seo h6{font-size:14px;margin:0 0 15px;font-weight:bold}.seo div{box-sizing:border-box;margin-bottom:15px}.seo div>span{display:inline-block;width:90px;vertical-align:top;padding-top:8px}.seo div>input{display:inline-block;width:465px}.seo div>textarea{display:inline-block;width:465px;height:120px;padding:7px;box-sizing:border-box}.seo div>label{display:block;margin-left:95px;line-height:2em}.seo div>label>strong{background:#ddd;padding:10px 20px;margin-right:10px}.seo .red{color:#f00}.banner{margin-top:20px}@media screen and (max-width:1200px){.highlight a{width:19.8%}.col_topic{width:29.5%}.col_topic h2,.col_topic h4{font-size:15px}}.infoprod span.priceline{color:#999 !important;text-decoration:line-through;font-weight:normal;font-size:16px !important;display:block}.infobox{margin:10px 10px;padding:0 1.5%;border:1px solid #c3e5f8;background-color:#dbedf9}
+.wrapcomment{display:block;overflow:hidden;width:98%;max-width:800px;margin:0 auto;float:left}.wrapcomment .titletext{display:block;overflow:hidden;font-size:20px;color:#333;line-height:1.3em;padding-bottom:20px}.wrapcomment .titletext h2{font-size:20px;color:#333;font-weight:300;display:inline-block}.wrapcomment .textarea{display:block;overflow:hidden;background:#fff;min-height:100px;border:1px solid #c1bfbf;padding:10px;font-size:16px;color:#333;max-height:200px}.wrapcomment .textarea a{color:#4a90e2}.wrapcomment textarea{min-height:50px !important}.wrapcomment .textarea .ptr{margin:0 auto;width:80%;text-align:center}.wrapcomment .textarea .ptr img{max-height:450px;max-width:600px}.wrapcomment .textarea .ptr span{display:block;margin-top:10px;color:#999}.wrapcomment .textarea .ptr span a{cursor:pointer;color:#f00}.wrap-attaddsend{display:block;overflow:hidden;background:#fff;border:1px solid #c1bfbf;position:relative;margin-top:-1px}.wrap-attaddsend .attach{float:left;font-size:14px;color:#666;padding:12px 16px 9px;border-right:1px solid #c1bfbf;cursor:pointer}.wrap-attaddsend .addicon{float:left;font-size:14px;color:#666;padding:11px 16px 8px;border-right:1px solid #c1bfbf;cursor:pointer}.wrap-attaddsend .addicon:hover{background:#fbd648}.wrap-attaddsend .addicon label{background:#f9b84d;border:1px solid #f5a623;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;padding:5px 10px;font-size:14px;color:#fff;position:relative;right:-10px;cursor:pointer;display:none}.wrap-attaddsend .addlink{float:left;font-size:14px;color:#666;padding:11px 16px 8px;border-right:1px solid #c1bfbf;cursor:pointer}.wrap_iconemotion{display:block;overflow:hidden;padding:5px;border:1px solid #c1bfbf;border-bottom:0;margin-top:-1px;max-height:280px;overflow-x:hidden;overflow-y:auto}.wrap_iconemotion .col1 a{float:left;width:36px;height:36px;margin:5px}.wrap_iconemotion .col1 a img{display:block;width:36px;height:36px}.wrap_iconemotion .col2 a{float:left;width:42px;height:42px;margin:5px}.wrap_iconemotion .col2 a img{display:block;width:42px;height:42px}.wrap_iconemotion::-webkit-scrollbar{width:9px}.wrap_iconemotion::-webkit-scrollbar-track{background:#fff;border:1px solid none;width:11px;padding:2px}.wrap_iconemotion::-webkit-scrollbar-thumb{background:#d8d8d8;border-radius:8px;-webkit-border-radius:8px;-moz-border-radius:8px}.wrap_iconemotion::-webkit-scrollbar-thumb:window-inactive{background:#d8d8d8}.wrap_iconemotion a:hover>.addicon{background:#fbd648}.wrap-attaddsend .sendclick{float:right;font-size:15px;color:#2a2a2a;text-align:center;font-weight:600;text-transform:uppercase;width:120px;padding:11px 0 10px;cursor:pointer;background:#fbd648}.wrap-attaddsend .userinfo{font-size:14px;color:#2a2a2a;text-align:center;font-weight:600;max-width:250px;padding:11px 0 10px;cursor:pointer;background:#fff;position:absolute;right:130px;padding-right:64px}.wrap-attaddsend .userinfo a{color:#4a90e2;font-weight:300;float:left;position:absolute;right:-3px}.wrap-attaddsend .userinfo i{margin-top:-4px;float:left}.wrap-attaddsend .avaS{margin-top:-4px;float:left;width:25px;height:25px;margin-right:7px}.wrap-attaddsend .userinfo .uname{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:160px;float:left;text-align:left}.wrap_loginpost{display:block;overflow:hidden;background:#fff;padding:10px;border:1px solid #d8d8d8;border-top:0;position:relative}.wrap_loginpost .asideleft{float:left;overflow:hidden;width:55%;border-right:1px solid #d8d8d8}.wrap_loginpost .asideleft label{display:block;font-size:14px;color:#666;margin-bottom:10px;padding-right:5px}.wrap_loginpost .asideleft a{*float:left;overflow:hidden;margin-right:10px}.infologin{display:block;position:relative;clear:both;padding-top:10px;overflow:hidden}.infologin .arrow_dw{position:absolute;right:110px;top:-1px;z-index:9;background:#f1f1f1}.infologin .arrow_dw:after,.infologin .arrow_dw:before{top:101%;left:50%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none}.infologin .arrow_dw:after{border-top-color:#fff;border-width:7px;margin-left:-7px}.infologin .arrow_dw:before{border-top-color:#dadada;border-width:8px;margin-left:-8px}.wrap_loginpost .infologin .userlogin{display:block;padding:8px;border:1px solid #dadada;font-size:14px;color:#999;margin-bottom:10px;width:84.5%}.wrap_loginpost .infologin .forgetpass{float:left;padding:8px 0;font-size:14px;color:#4a90e2}.wrap_loginpost .infologin .forgetpass:hover{text-decoration:underline}.wrap_loginpost .infologin .loginpost{float:right;padding:8px;margin-right:50px;background:#fbd648;border:1px solid #c1bfbf;font-size:14px;color:#2a2a2a;text-transform:uppercase;font-weight:600;cursor:pointer}.wrap_loginpost .noaccount{display:block;padding:10px 0;font-size:14px;color:#999}.wrap_loginpost .noaccount a{color:#4a90e2}.wrap_loginpost .noaccount a:hover{text-decoration:underline}.wrap_loginpost .asideright{float:right;overflow:hidden;width:42%}.wrap_loginpost .asideright label{display:block;font-size:14px;color:#666;margin-bottom:10px}.wrap_loginpost .asideright .infoname{display:block;padding:8px;border:1px solid #dadada;font-size:14px;margin-bottom:10px;width:90.5%;color:#333}.wrap_loginpost .asideright .finalpost{float:right;padding:8px;margin-right:14px;background:#fbd648;border:1px solid #c1bfbf;font-size:14px;color:#2a2a2a;text-transform:uppercase;font-weight:600}.wrapcomment .info_nocomment{display:block;overflow:hidden;width:80%;margin:20px auto 0;text-align:center}.info_nocomment .texteveryone{display:block;overflow:hidden;line-height:1.3em;font-size:20px;color:#999;font-weight:600}.wrapcomment .sortcomment{display:block;overflow:hidden;padding:15px 0;border-bottom:1px solid #e0e0e0;margin-right:3px}.sortcomment span{float:right;font-size:13px;color:#999;padding:6px 12px}.sortcomment a{float:right;font-size:13px;color:#4a90e2;padding:6px 12px}.sortcomment a:hover{color:#333}.sortcomment a.activedsort{background:#ececec;border-radius:7px;-webkit-border-radius:7px;-moz-border-radius:7px}.sortcomment .statistical{float:left;overflow:hidden;font-size:12px;color:#565656;padding:6px 18px;background:#fff4b7;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px}.statistical a{color:#4a90e2;padding:0 5px}.statistical a:hover{color:#4a90e2;text-decoration:underline}.infocomment{display:block;overflow:hidden;margin-bottom:20px}.comment_ask{display:block;overflow:visible;margin:10px 0 0}.comment_ask strong{font-size:14px;color:#333;text-transform:capitalize}.comment_ask strong.cmtMxh a{color:#4a90e2}.comment_ask .qtv{text-transform:uppercase;margin-right:10px;color:#000;font-weight:normal;font-size:10px;background:#eebc49;padding:2px 6px;border-radius:3px;line-height:18px;height:18px;margin-left:10px}.comment_ask .nameadmin{color:#4a90e2}.comment_ask .admin{display:inline-block;margin-left:5px;font-size:12px;font-weight:600;color:#444;padding:2px 6px;background:#fdd504;border:1px solid #c1a201}.comment_ask .goodcomment{float:right;font-size:12px;color:#4a90e2}.comment_ask .tgddthank{float:right;font-size:12px;color:#e99100}.comment_ask .relate_infocom{margin-left:30px}.infocom_ask,.infocom_ask_s{display:block;font-size:14px;color:#4a4a4a;line-height:22px;margin-left:30px}.infocom_ask a{color:#4a90e2}.infocom_ask_s .seeMore,.infocom_ask .content_s .seeMore{color:#4a90e2;cursor:pointer;white-space:nowrap}.infocom_ask_s .seeMore b,.infocom_ask .content_s .seeMore b{font-weight:normal;font-style:normal;font-size:16px}.infocom_ask .conticon{line-height:normal;line-height:22px}.infocom_ask .conticon .relate_infocom{margin-left:0}.hidecmt{overflow:hidden;max-height:190px}.relate_infocom{display:block;overflow:visible;height:18px;padding:5px 0;font-size:12px;color:#666}.relate_infocom span{float:left}.relate_infocom span.like{float:none}.relate_infocom .baoloi{cursor:pointer;position:relative;color:#4a90e2}.relate_infocom .baoloi .content_bao_loi{display:none;position:absolute;top:20px;left:-77px;width:200px;padding:5px;height:89px;border:1px solid #e5e5e5;background:#fff;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;box-shadow:0 0 2px 0 rgba(0,0,0,.1);z-index:100}.relate_infocom .baoloi .content_bao_loi i{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-bottom:5px solid #ccc;position:absolute;top:-5px;left:0;right:0;display:block;margin:auto}.relate_infocom .baoloi .content_bao_loi b{position:absolute;top:5px;right:5px;width:11px;height:11px}.relate_infocom .baoloi .content_bao_loi figure{display:block;font-size:12px;color:#444;padding-bottom:5px}.relate_infocom .baoloi .content_bao_loi a{display:block;padding:5px;margin-bottom:5px;font-size:12px;color:#333;background:#fffab8;border:1px solid #f8e71c}.relate_infocom .baoloi .content_bao_loi a:hover{background:#f5a623;border:1px solid #be7805;color:#fff}.relate_infocom .baoloi:hover .content_bao_loi{display:block}.relate_infocom .numlike{color:#999}.relate_infocom .date{color:#999}.relate_infocom .reply{cursor:pointer;color:#4a90e2}.relate_infocom .reply{cursor:pointer;color:#4a90e2}.relate_infocom .dot{float:left;display:inline;font-size:8px;vertical-align:middle;margin:2px 5px;color:#babbb8}.like{color:#4a90e2;cursor:pointer}.disble{color:#999 !important;cursor:default;display:inline !important}.relate_infocom .btnreply{cursor:pointer;color:#4a90e2}.relate_infocom .btnreply:hover{color:#4a90e2}.comment_reply{display:block;margin-top:5px;position:relative;background:#f1f1f1;border:1px solid #e7e7e7;padding:15px 10px;font-size:14px;color:#333;margin-left:30px}.arrow_box{position:relative;left:7px;display:block;margin-top:-15px;z-index:9;background:#f1f1f1}.arrow_box:after,.arrow_box:before{bottom:100%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none}.arrow_box:after{border-bottom-color:#f1f1f1;border-width:11px;margin-left:-11px}.arrow_box:before{border-bottom-color:#e7e7e7;border-width:12px;margin-left:-12px}.totalcomment-reply{display:block;padding:10px 0 0;border-top:1px solid #b4b4b4;font-size:12px;color:#4a90e2;cursor:pointer;margin-top:7px}.totalcomment-reply:hover{text-decoration:underline}.sizeimgattach{display:block;width:98%;margin:0 auto;overflow:hidden}.sizeimgattach img{display:block;max-width:100%;max-height:450px;margin:10px auto 0}.deleteimg{display:block;width:98%;padding:5px 0;font-size:14px;color:#f00;text-align:center;cursor:pointer}.viewmorecomment{display:block;height:1px;background:#e6e6e6;position:relative;margin:40px 0 30px}.viewmorecomment .btnexpand{position:absolute;top:-20px;left:0;right:0;display:block;padding:10px 0;width:140px;margin:auto;background:#fff;border:1px solid #e6e6e6;font-size:12px;color:#959595;text-align:center;text-transform:uppercase;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;cursor:pointer}.viewmorecomment .btnexpand span{width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:6px solid #959595;position:relative;top:9px;margin-left:5px}.viewmorecomment .btncollapse{position:absolute;top:-20px;left:0;right:0;display:block;padding:10px 0;width:140px;margin:auto;background:#fff;border:1px solid #e6e6e6;font-size:12px;color:#959595;text-align:center;text-transform:uppercase;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;cursor:pointer}.viewmorecomment .btncollapse span{width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:6px solid #959595;position:relative;bottom:9px;margin-left:5px}.reportinfo{display:block;padding:10px;border:1px solid #ebebeb;background:#fdf9bc;position:relative;width:335px;height:76px;font-size:14px;color:#666;line-height:22px}.reportinfo i{position:relative;left:30px;top:-13px;z-index:9;background:#f1f1f1}.reportinfo i:after,.reportinfo i:before{bottom:100%;left:50%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none}.reportinfo i:after{border-bottom-color:#fdf9bc;border-width:11px;margin-left:-11px}.reportinfo i:before{border-bottom-color:#e7e7e7;border-width:12px;margin-left:-12px}.reportinfo b{position:absolute;top:5px;right:5px}.tabicon{display:block;overflow:hidden;text-align:center;border:1px solid #c1bfbf;border-top:0;border-bottom:0;padding-bottom:5px}.tabicon a{padding:10px;font-size:14px;color:#333;font-weight:600;display:inline-block}.tabicon a.acticon,.tabicon a:hover{border-bottom:2px solid #f5a623}.tagcloseicon{position:absolute;top:5px;right:5px;background:#eee;padding:5px 6px 5px 8px;border-radius:5px}.showicon{position:relative;overflow:hidden}[class^="iconcom-"],[class*="iconcom-"]{background-image:url(//s.tgdd.vn/comment/Content/images/bg_comment.png);background-repeat:no-repeat;display:inline-block;height:30px;width:30px;line-height:30px;vertical-align:middle}.iconcom-arrownocomment{background-position:0 -100px;width:70px;height:140px;float:left}.iconcom-nocomment{background-position:0 0;width:85px;height:85px;display:block;margin:0 auto 28px}.iconcom-firstcomment{background-position:-85px 0;width:85px;height:85px;display:block;margin:0 auto 28px}.iconcom-news{background-position:-211px -84px;width:104px;height:20px;margin-left:10px}.iconcom-user{width:25px;height:25px;background-image:none;background-color:#ccc;margin-right:7px;text-align:center;color:#fff;text-transform:uppercase;font-size:12px;line-height:26px;font-style:normal}.comment_ask .avaS{width:25px;height:25px;background-image:none;background-color:#ccc;margin-right:7px;text-align:center;color:#fff;text-transform:uppercase;font-size:12px;line-height:26px;font-style:normal;vertical-align:middle}.iconcom-user1{background-position:-170px 0;width:25px;height:25px;margin-right:7px}img.imgU{width:25px;height:25px;margin-right:7px !important;vertical-align:middle}.iconcom-user2{background-position:-196px 0;width:25px;height:25px;margin-right:7px}.iconcom-user3{background-position:-222px 0;width:25px;height:25px;margin-right:7px}.iconcom-user4{background-position:-248px 0;width:25px;height:25px;margin-right:7px}.iconcom-cup{background-position:-280px -30px;width:18px;height:18px;margin-right:5px}.iconcom-heart{background-position:-170px -50px;width:16px;height:14px;margin-right:5px}.iconcom-like{background-position:-265px -30px;width:13px;height:13px;margin-top:-5px}.iconcom-arrup{background-position:-170px -30px;width:26px;height:14px;position:absolute;top:-12px;left:15px;z-index:-1}.iconcom-comment{background-position:-245px -30px;width:16px;height:14px;margin-right:5px}.iconcom-picture{background-position:-274px 0;width:27px;height:20px;margin:-4px 5px 0 0}.iconcom-addemotion{background-position:-225px -50px;width:24px;height:23px;margin:-4px 5px 0 0}.iconcom-facebook{background-position:-70px -100px;width:110px;height:37px}.iconcom-googleplus{background-position:-70px -140px;width:110px;height:37px}.iconcom-mobileworld{background-position:-70px -180px;width:130px;height:37px}.iconcom-closeloi{background-position:-190px -50px;width:11px;height:11px}.iconcom-closereport{background-position:-205px -50px;width:11px;height:11px}.iconcom-arrupyellow{background-position:-200px -30px;width:26px;height:14px}.iconcom-closeicon{background-position:-190px -50px;width:14px;height:14px}#comment .pagcomment{display:block;padding:8px;overflow:hidden;margin:10px auto;clear:both}#comment .pagcomment a{float:left;padding:4px 10px;background:#eee;border-radius:3px;text-align:center;color:#333;margin-right:4px;font-size:12px;cursor:pointer}#comment .pagcomment a:hover{background:#ddd}#comment .pagcomment span{float:left;padding:4px 10px;background:#eee;border-radius:3px;text-align:center;color:#333;margin-right:4px;font-size:12px;clear:none !important;cursor:pointer}#comment .pagcomment span.active{float:left;padding:4px 10px;background:#ccc;border-radius:3px;text-align:center;color:#333;margin-right:4px;font-size:12px;clear:none !important;cursor:pointer}.hide{display:none !important}#content .conticon{line-height:normal;line-height:18px}#content .conticon img{width:24px;height:24px;display:inline-flex}.clr{clear:both}.closeIfo{position:absolute;top:-1px;right:-1px;border:solid 1px #cdcdcd;padding:5px 10px;background-color:#e7e8e7;color:#96989a;cursor:pointer;z-index:999}.wrapcomment .txtEditor{width:97%}.comment_ask img{max-width:100%;margin:0 auto;max-height:450px;background-image:none !important}.conticon img{max-width:100%;margin:0 auto;background-image:none !important}#cmtmask{display:none}.form_reply{padding-top:10px}.infocom_ask .msgImg{display:none}#txtEditor2{margin:10px 0}.trCmtNew{background:#fffadd}.trCmt{background:#fff;transition:background 3s linear;-webkit-transition:background 3s linear;-moz-transition:background 3s linear}.trCmtChild{background:#f1f1f1;transition:background 3s linear;-webkit-transition:background 3s linear;-moz-transition:background 3s linear}#comment .CmtPopUp{background-color:#fff;border:1px solid #000;position:fixed;display:none;top:15%;width:500px;left:20%;padding:0;height:165px;z-index:2}#comment .CmtPopUpHeader{font-size:small;height:30px;position:relative;background-color:#ffaa01;top:0;color:#fff}#comment .CmtPopUpContent{margin:10px}#comment .CmtPopUpContent .PopupInput{margin:0 10px;display:inline-block;height:30px;line-height:30px}#comment .CmtPopUpContent .Btn{margin-left:155px}#comment .CmtPopUpContent .BtnInsLnk{background:#f9b84d;border:1px solid #f5a623;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;padding:5px 10px;font-size:14px;color:#fff;right:-10px;cursor:pointer;margin:15px auto 0}#comment .CmtPopUpContent .PopupInput .lbl{width:80px;display:inline-block}#comment .CmtPopUpContent .PopupInput .txt{width:350px;display:inline-block}#comment .CmtPopupClose{background:url(//s.tgdd.vn/comment/Content/images/close.png) no-repeat;float:right;cursor:pointer;width:35px;height:35px;right:-15px;top:-15px;position:absolute}#comment .CmtPopupTitle{text-align:center;float:left;width:90%;color:#fff;line-height:30px;font-weight:bold}#comment .CmtPopLayer{height:100%;background-color:#030303;filter:alpha(opacity=60);opacity:.6;border:1px solid #000;position:fixed;left:0;top:0;width:0%}.captchacmt{max-width:180px;float:left;padding-top:9px}.captchacmt input{max-width:90px}.captchacmt img{max-width:55px;float:left}.CmtRate span{display:block;margin:5px 0 0 30px;color:#333}.CmtRate b{display:inline-block;color:#333;font-style:normal;vertical-align:bottom}.CmtRate .spIntro{display:block;margin-left:0;margin-top:10px}.CmtRate .icon-introYes{background-image:url(//s.tgdd.vn/comment/Content/images/happy.png) !important;background-position:0 0;width:27px;height:27px;margin:-4px 5px 0 0;display:inline-block}.CmtRate .icon-introNo{background-image:url(//s.tgdd.vn/comment/Content/images/sad.png) !important;background-position:0 0;width:27px;height:27px;margin:-4px 5px 0 0;display:inline-block}.captchacmt i{color:#f00;margin-right:5px}.wrapcomment .iconcmtask-user{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-140px 0;width:50px;height:50px;float:left}.wrapcomment .cmtAvar img{width:50px;height:50px;float:left}.wrapcomment .cmtEditorFaq{float:left;width:98%;overflow:visible}.wrapcomment .cmtEditorFaq .boxAdvisory{padding:10px 0}.wrapcomment .cmtEditorFaq textarea{display:block;overflow:hidden;padding:2%;width:95.6%;border:1px solid #288ad6;border-bottom:0}.wrapcomment .cmtEditorFaq ul{display:block;height:35px;border:1px solid #288ad6;margin:0 auto}.wrapcomment .cmtEditorFaq li{float:left;width:35px;height:35px;border-right:1px solid #288ad6;cursor:pointer}.wrapcomment .cmtEditorFaq li.addpicture{width:119px}.wrapcomment .cmtEditorFaq li.addvideo{width:120px;border-right:0}.wrapcomment .cmtEditorFaq li span{float:left;margin:8px 0}.wrapcomment .cmtEditorFaq li button{background-color:transparent;border:0}.wrapcomment .iconcmtask-b{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:2px -80px;width:10px;height:10px;display:block;margin:12px auto;background-color:transparent;border:0}.wrapcomment .iconcmtask-i{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-9px -80px;width:4px;height:10px;display:block;margin:12px auto}.wrapcomment .iconcmtask-u{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-20px -80px;width:10px;height:10px;display:block;margin:12px auto}.wrapcomment .iconcmtask-l{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-35px -80px;width:16px;height:14px;display:block;margin:11px auto}.wrapcomment .iconcmtask-c{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-55px -80px;width:16px;height:14px;display:block;margin:11px auto}.wrapcomment .iconcmtask-r{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-75px -80px;width:16px;height:14px;display:block;margin:11px auto}.wrapcomment .iconcmtask-at{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-95px -80px;width:17px;height:17px;display:block;margin:9px auto}.wrapcomment .iconcmtask-ca{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-20px 0;width:20px;height:18px;float:left;margin:9px}.wrapcomment .iconcmtask-vd{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-position:-120px -80px;width:25px;height:18px;float:left;margin:8px}.wrapcomment button.btnSendCmtFaq{float:right;padding:8px 0;width:110px;color:#fff;font-weight:600;text-align:center;border:0;background:#288ad6;cursor:pointer}.wrapcomment .userFaq{text-transform:capitalize;float:right;padding:8px 10px;color:#fff;font-weight:600;text-align:center;border:0;background:#288ad6;cursor:pointer}.wrapcomment .userFaq a{color:#fff}.wrapcomment .boxAdvisory{float:right;clear:both;margin:10px 0;cursor:pointer}.wrapcomment .boxSendCmtFaq{position:relative}.wrapcomment .boxSendCmtFaqInfo{display:none;overflow:hidden;padding:15px;border:1px solid #4766f7;box-shadow:0 2px 8px 0 rgba(2,102,248,.5);-webkit-box-shadow:0 2px 8px 0 rgba(2,102,248,.5);-moz-box-shadow:0 2px 8px 0 rgba(2,102,248,.5);position:absolute;right:0;top:-1px;background:#fff;width:300px;z-index:1}.wrapcomment .boxSendCmtFaqInfo strong{display:block;overflow:hidden;font-size:14px;color:#444;margin-bottom:10px}.wrapcomment .boxSendCmtFaqInfo input{display:block;padding:8px;width:94%;margin-bottom:10px;border:1px solid #e5e5e5;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}.wrapcomment .boxSendCmtFaqInfo button{display:block;float:none;width:80%;margin:0 auto 10px;padding:6px 16px;font-size:12px;color:#fff;text-transform:uppercase;border:1px solid #288ad6;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;background:#288ad6;font-weight:600;cursor:pointer}.wrapcomment .backCmt,.wrapcomment .closeCmtFaq{color:#4a90e2;cursor:pointer;float:right}.wrapcomment .cSocial{font-weight:normal;display:none !important}.wrapcomment .cSocial a{color:#4a90e2;text-decoration:none}.wrapcomment .addpicture .load{margin-top:12px}[class^="iconcmtask-"],[class*="iconcmtask-"]{background-image:url(//s.tgdd.vn/comment/Content/images/iconhoidap@1x.png);background-repeat:no-repeat;display:inline-block;height:30px;width:30px;line-height:30px;vertical-align:middle}@media(-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){[class^="iconcom-"],[class*="iconcom-"]{background-image:url(//s.tgdd.vn/comment/Content/images/bg_comment@2x.png);background-size:320px 250px}.iconcom-user,.comment_ask .avaS{background-image:none;background-color:#ccc}}@media screen and (max-width:1200px){.left_comment{width:98%}.wrapcomment .txtEditor{width:96.5%}.wrap_loginpost .asideleft{width:56%}.wrap_loginpost .asideleft a{margin-right:0}.wrap_loginpost .infologin .userlogin{width:92.2%}.infologin .arrow_dw{right:74px}}
+article a{color:#288ad6}article iframe{width:100%;height:330px}.wrapcomment .txtEditor{width:96%}.divContent{padding-bottom:10px;border-bottom:1px solid #d9d9d9;padding-top:10px;overflow:hidden}.comment_ask img{display:inline-block !important}.row_edit{display:block;margin:20px 10px}.row_edit button{overflow:hidden;padding:6px 30px;margin-right:10px;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;font-size:12px;font-weight:600;background:#fff;text-transform:uppercase;cursor:pointer}.row_edit a{overflow:hidden;padding:8px 30px;margin-right:10px;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;font-size:12px;font-weight:600;background:#fff;text-transform:uppercase;cursor:pointer}.row_edit .editcontent{border:1px solid #288ad6;color:#288ad6}.row_edit .deletecontent{border:1px solid #ed5564;color:#ed5564}.editCatediv{display:block;overflow:hidden;margin:20px 10px}.editCatediv select{display:block;outline:none;padding:8px;border:1px solid #e5e5e5;height:36px;width:50%;margin-top:10px;font-size:14px;color:#666}.editCatediv input{display:block;outline:none;padding:8px;border:1px solid #e5e5e5;height:20px;width:47%;margin-top:10px;font-size:14px;color:#666}.schildren{color:#f00}.sparent{color:#f00}.owl-carousel .owl-wrapper:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel{display:none;position:relative;width:100%;-ms-touch-action:pan-y}.owl-carousel .owl-wrapper{display:none;position:relative;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-wrapper-outer{overflow:hidden;position:relative;width:100%}.owl-carousel .owl-wrapper-outer.autoHeight{-webkit-transition:height 500ms ease-in-out;-moz-transition:height 500ms ease-in-out;-ms-transition:height 500ms ease-in-out;-o-transition:height 500ms ease-in-out;transition:height 500ms ease-in-out}.owl-carousel .owl-item{float:left}.owl-controls .owl-page,.owl-controls .owl-buttons div{cursor:pointer}.owl-controls{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0)}.owl-carousel .owl-wrapper,.owl-carousel .owl-item{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}.owl-theme .owl-controls{margin-top:0;text-align:center}.owl-theme .owl-controls .owl-buttons div{color:#fff;display:inline-block;zoom:1;*display:inline;margin:0;padding:6px 10px 9px;font-size:24px;background:#869791;background:rgba(0,0,0,.5)}.owl-theme .owl-controls .owl-buttons div.owl-prev{float:left;-webkit-border-radius:0 4px 4px 0;-moz-border-radius:0 4px 4px 0;border-radius:0 4px 4px 0}.owl-theme .owl-controls .owl-buttons div.owl-next{float:right;-webkit-border-radius:4px 0 0 4px;-moz-border-radius:4px 0 0 4px;border-radius:4px 0 0 4px}.owl-theme .owl-controls.clickable .owl-buttons div:hover{text-decoration:none}.owl-carousel .owl-buttons{position:absolute;top:40%;left:0;right:0;height:1px}.owl-theme .owl-controls .owl-page{display:inline-block;zoom:1;*display:inline}.owl-theme .owl-controls .owl-page span{display:block;width:12px;height:12px;margin:5px 7px;-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;background:#00a1e6}.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span{background:#ffaa36}.owl-theme .owl-controls .owl-page span.owl-numbers{height:auto;width:auto;color:#fff;padding:2px 10px;font-size:12px;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px}#owl-demo .item{position:relative;margin:0 auto}#owl-demo .item img{display:block;margin:0 auto;width:auto;height:auto;max-width:550px}.pCaption{margin:0 auto;width:90%;color:#333;font-weight:bold;padding:0 10px;text-align:center}.lstSearchCata{display:block;margin:10px auto 0 !important;border:1px solid #e2e2e2;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;box-shadow:0 1px 3px 0 #7d7d7d;-webkit-box-shadow:0 1px 3px 0 #7d7d7d;-moz-box-shadow:0 1px 3px 0 #7d7d7d;background:#fff;position:absolute;z-index:999;width:275px}.lstSearchCata li{display:block;border-bottom:1px dashed #989898;padding:5px 0 10px;margin-bottom:5px}.lstSearchCata:after,.lstSearchCata:before{bottom:100%;left:80px;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none}.lstSearchCata:after{border-color:rgba(255,255,255,0);border-bottom-color:#fff;border-width:8px;margin-left:-8px}.lstSearchCata:before{border-color:rgba(218,218,218,0);border-bottom-color:#dadada;border-width:9px;margin-left:-9px}.lstSearchCata li:nth-child(even){background:#fff}.lstSearchCata li:last-child{border-bottom:0}.lstSearchCata li span{position:relative;display:block;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;padding:0 6px;color:#666}.lstSearchCata li:hover,.lstSearchCata li.selected{background:#4a90e2}.lstSearchCata li:hover span,.lstSearchCata li.selected span{color:#fff}.imgCheck{display:block;margin:10px 0;color:#a80101}.rowuser span.numcmt .iconask-com{margin-right:5px}.infoprod{width:100%;max-width:600px;height:auto;padding:10px 5px;display:inline-block;border:1px solid #eee;margin-bottom:20px}.infoprod .image,.infoprod-inline .image{float:left;width:36%}.infoprod .viewdetail,.infoprod-inline .viewdetail{background:#f89406;background:-webkit-gradient(linear,0% 0%,0% 100%,from(#f76b1c),to(#f89406));background:-webkit-linear-gradient(top,#f89406,#f76b1c);background:-moz-linear-gradient(top,#f89406,#f76b1c);background:-ms-linear-gradient(top,#f89406,#f76b1c);background:-o-linear-gradient(top,#f89406,#f76b1c);border:1px solid #d97f00;padding:5px 15px;text-align:center;color:#fff;text-transform:uppercase;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;font-size:14px;font-weight:300;display:inline-block;margin-top:5px}.infoprod .image img,.infoprod-inline .image img{width:150px;min-height:unset;margin:auto}.infoprod .infor,.infoprod-inline .infor{text-align:left;float:right;width:64%}.infoprod .infor .price,.infoprod-inline .infor .price{position:relative;margin:10px 0;color:#000}.infoprod .infor .price .priceline,.infoprod-inline .infor .price .priceline{display:inline-block;vertical-align:middle;color:#666;text-decoration:line-through;font-weight:normal;margin-right:10px}.infoprod .infor .price .pricenew,.infoprod-inline .infor .price .pricenew{display:inline-block;background:#f00;padding:10px;top:-10px;font-size:20px;color:#000;vertical-align:middle;overflow:visible}.infoprod .infor .price .pricenew:before,.infoprod-inline .infor .price .pricenew:before{right:100%;top:50%;border:solid transparent;content:" ";height:0;width:0;position:absolute;border-right-color:#f00;border-width:5px;margin-top:-5px}.infoprod .infor .km,.infoprod-inline .infor .km{border:1px solid #eee;border-radius:3px;position:relative;padding:10px;margin-top:20px;margin-right:10px;top:5px}.infoprod .infor .km span,.infoprod-inline .infor .km span{display:block;overflow:hidden;font-size:14px;color:#333;padding:8px 10px 0 22px}.infoprod .infor .km span:before,.infoprod-inline .infor .km span:before{content:"-";display:inline-block;font-size:20px;margin-right:5px;margin-left:-12px}.infoprod .infor h3,.infoprod-inline .infor h3{margin:0;color:#288ad6;font-weight:600;font-size:16px;overflow:hidden;max-width:290px}.infoprod .infor figure,.infoprod-inline .infor figure{margin:0;font-size:14px;line-height:1.5;color:#777}.infoprod .infor strong,.infoprod-inline .infor strong{display:block;overflow:hidden;padding:3px 0;font-size:16px;color:#d0021b;font-weight:600}.infoprod .infor p,.infoprod-inline .infor p{width:100%;max-width:450px;margin:0;font-size:14px;line-height:1.6;color:#777}.infoprod input,.infoprod-inline .textkm{display:inline;overflow:hidden;font-size:14px;margin-left:5px}.infoprod a.buynow,.infoprod-inline a.buynow{background:#f89406;background:-webkit-gradient(linear,0% 0%,0% 100%,from(#f76b1c),to(#f89406));background:-webkit-linear-gradient(top,#f89406,#f76b1c);background:-moz-linear-gradient(top,#f89406,#f76b1c);background:-ms-linear-gradient(top,#f89406,#f76b1c);background:-o-linear-gradient(top,#f89406,#f76b1c);border:1px solid #d97f00;padding:5px 15px;text-align:center;color:#fff;text-transform:uppercase;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;font-size:14px;font-weight:300;display:inline-block;margin:10px 10px 0 0}.infoprod a.tragop,.infoprod-inline a.tragop{background:#288ad6;border:1px solid #288ad6;padding:5px 15px;text-align:center;color:#fff;text-transform:uppercase;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;font-size:14px;font-weight:300;display:inline-block;margin:10px 0 0 0}.infoprod .buyinstall,.infoprod-inline .buyinstall{margin-top:5px;padding:5px;color:#fff;text-transform:uppercase;text-align:center;border:1px solid #288ad6;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;background:#288ad6;font-size:14px;display:inline-block}.infoprod input,.infoprod-inline input{height:24px;width:200px;border:1px solid #ccc;border-radius:4px}.infoprod button,.infoprod-inline button{margin-left:5px;padding:2px;color:#fff;text-transform:uppercase;text-align:center;border:1px solid #288ad6;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;background:#288ad6}.infoprod button.error,.infoprod-inline button.error{display:none;padding:5px;border-color:#ebccd1;border:1px solid transparent;border-radius:4px;background-color:#f2dede;color:#a94442;text-align:center;text-transform:none;margin:5px 0 0}.infoprod .infor .km .plabel,.infoprod-inline .infor .km .plabel{position:absolute;left:5px;top:-10px;padding:0 10px;border-radius:10px;background:#ed142f;color:#fff;height:24px;line-height:24px}.infoprod .infor .km .plabel:before,.infoprod-inline .infor .km .plabel:before{content:""}.infoprod .infor .km .plabel i,.infoprod-inline .infor .km .plabel i{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABGdBTUEAALGPC/xhBQAAAbpJREFUSA3tVj1Lw1AUTaR1KqKD4iQo1FXEwa2Dg5Zujg6Z6uDmb+hP6OzoIl2cFJxddNLVDxQcuxSqLm0hnhPuJc/4rHlpiUsuHO7HO+fex0vyWs/7w8IwrAPXQB94ANrAYlLGmqyRQy419STPKUeDJmCzLopb2owxwJrNmspz8uhUAd6l4wD+AniWnK4HVAWM1cghlxoae1SchpMMUY1qsZbUysjPtAh/L9AS18rCbWkRvsaazUq2otQGxtoyY9/3h2gWIJwH9oANQO0KQUCOFCKNxGYv5UfeR8Obb5U4mUW4GafeK+Ku5Avw68Yaw0egJ7Ul+FWJ6e4A6ya4gdAg5h6aj6CP6W857WAFc+aiWTwBsU5Ow/mCd3ToTNahaNAAXgSNrH3Md+AJTS4dGlXB1cHUUZ/WqKPeMzeQVjxVXuZHMK1d8CvgNXkK7EtT92tThCndh/DO4YMSbq5PvEgjFTPXeJyHZhvrx8JpQ3c7jq9r0Gk44qxJHgG/5QMB40w2yQYyDUyKig0UJ1CcQHECxQmY/wmjWxI/FifJ6/KXfM2oH0G3a+Spwx8bgPIwtTom7iAknO3f34EvJBBbitUXLJcAAAAASUVORK5CYII=');background-size:16px 15px;width:16px;height:15px;display:inline-block;position:relative;top:2px;margin-right:3px}.link-group-ios{width:100%;float:left;text-align:center;margin:0 auto;margin-bottom:10px}.link-group-ios a{margin-top:10px;float:left;overflow:hidden;padding:10px 0;height:35px;border-radius:10px;font-size:14px;font-weight:600;line-height:normal;text-transform:uppercase;color:#000;text-align:center;background-color:#fdd504;width:50%;margin-left:25%}.link-group-ios a p{display:block;line-height:0;overflow:unset;font-size:14px}.link-group-ios span{display:block;text-transform:none}.col_content .breadcrumb{margin:0 0 10px;padding:0}.menuquick{display:block;background:#dbedf9;border:1px solid #c7e4f4;border-radius:4px;width:65%;padding:1.5%;font-size:16px;margin:20px 10px 10px}.menuquick label{position:relative;display:block;overflow:hidden;text-align:center;cursor:pointer;font-weight:bold;margin-bottom:5px;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;line-height:28px;font-size:16px}.menuquick a{display:block;line-height:24px}.menuquick a[href*="subhmenu"]{margin-left:5%}.menuquick label:after{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAOCAYAAAA45qw5AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAi9JREFUOE+tk01rE0EYx7MbMbZePIlR8SsIQhFE8eBZJOKhUqwearKE5BDMoQpihB4UL0Igb6BSSimtFbF+AcVLoeDJDyBoYw9CDyHFhLz4e2aeXZUkZn35we48859n5z/PzKzjed61Xq/3KGJ5UKvVHmv8X0mlUnma+X6/36a97SSTyV2CQzIoOI6zHI/H5wqFwjeV/olcLjfRbDafEk5bxXjsurzWtG9gRTP1ev1NOp0+otJfk8lkjmL6ljAwFfBYcyuViof5gmo+pzudzha7cUr7fwwLn2q321uEU1Yx9PG6x3F6jgpyBldZiWzJAasY9nhukPjcdsPBvZmWuXgmVBL2XNedpdAX0nGNBNVqdYWB84RfrGKY5FllogKTBIscheSwSwtc1pWfTanyE3Of9U2Fgcmy2ezxVqv1ivCXbebjdSa7TvWyCwPk8/mDjUZjiZyESga+24xGo4lSqbSjkmFoFax6kg8WmeSKSj7vY7HYpWKx+Fn7BvJPkL9B/kmVfJbIv0l+S/sBI7ePSRzO/T7hXatYMNhh2xLlcnlT+lyiM91u9yX5h00CkNOjucPxPbTKIGPPTS4KZ/aMMLh0TCwVzNHuY6xKvN8MWBroM5i+1v5QxhoL8mvwe8m5x60yHAw/8lzkEn1QaSShjAUqP0Z1G4RD/20M37Hdl7l8X1X6LcHvNA6q2KY5h8G6VX6A9gTTC2FNhdAV+8ilo/p5wlvE25iWOc+KHQ1LJPIdi+3i7AUil8gAAAAASUVORK5CYII=');height:7px;width:15px;display:inline-block;content:" ";float:right;background-size:contain;margin:10px 0 0 0;cursor:pointer}.menuquick label.tg:after{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAOCAYAAAA45qw5AAAABGdBTUEAALGPC/xhBQAAAiRJREFUOBGtk01LW0EUhjO3t6kY0lUXGhX8AW40KV0Use6E0iBYxU0QFfIFgW5Ku9FCoZhFXSXkqxuRFl2Imp24EoUumkRw4w8Qv/AHaBNC0mcgEybWG+PHhbnnzDvnvO+ZOTPCdo8vEAgEq9VqSAjRRfpiKpWK4lfvQiXuEuz3+58ikER0Vs8DWwObymQylzrezG9ZGNEXCKwjMGhBuG8Yhpfdn1isN8BGw8xiEgwG+xDNNRGVmQOVSiUXDodfWtA0wLcK0893EP5GtFfLLLG7aYrxMYoa3lkul3cpdFLDbnSbCiP6iaxNhlNlI3RhmuYwR7qUTqd/UsAbsHO1jm2j0BVa85ViLVt540IkEnlWLBZ/QOLTCG0IHEDm5RId6Tjx3cRnwQZ0nHjLS/ffjulRR6lU2oHguuiG0+l8fV1UCsVisWPMoBSSc/VR5Hv8PVmYwpRt2DG96Sc4y+hRATX7jWOdg7jpWyVPhEKhLxz1PHk69xktGaU9fxRvfRHRMRKWWWivLwpxhdgMCasKa8XS33Hilhh1Lvy/kosNrODbnsgfl2ieahO4djmvfadcopFkMrmtgFZtoVA4dLvdW8S/ZTyv5ZnYMY/HY+bz+R1BdSmAQG1RmZzdbh+Nx+OnCriPlfeF5yVfxSs9n51nDH4TOoi/6nA4hh4qKjkTicS5y+WSz+2XrsHpTsgdTwEusCiPOUoPvutBj+Wj8wGuz5KPi/bxH4WvzTLEXb1kAAAAAElFTkSuQmCC');width:15px;display:inline-block;content:" ";float:right;background-size:contain;margin:10px 0 0 0;cursor:pointer}.preorder{display:inline-block;background:#e91e63;color:#fff;padding:3px 6px;border-radius:4px;margin-top:2px;width:115px}span.priceline{text-decoration:line-through;margin-left:8%;vertical-align:middle;font-size:12px;color:#222}.discount:before{content:' ';display:inline-block;background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAaCAYAAAC+aNwHAAAABGdBTUEAALGPC/xhBQAAAVpJREFUOBGVki1LBFEUhueuH0FQTAuimxVE2KZBgxj8AxaLglj8AYLJZLOYtFpFwWQ2iMUkiyBqNCloEFEQYXzuzl7mzP0Y7z3w7j0f73PuDDtZFhl5njfRI5qJREobUB+6RL9otJxEZkD7SMd1JFLagFa6aPGzW04iMpgp9CEWzEZghQVoGN0L+I28kbLgVMA6PUmBty1YlxtRCzAuIv132THx7wKIcfRik9R3IbjfDDANkp+hpumJ8535pqhN+mySDMMhSo1OdwHUWiqJ/wu19c3tXsGRFOvm9k4SVpiPzLsr6mWKlmmIc568uEU0SW/QglLqp9q2KhYfe57slZ7vsiqNqYHs70F/XEtVZ6DCOIfs2AnY3TbknkWfUyvXGehgvhULHshHAla3jbkl4E/yaddV0wHYEgtWa6z+EfBFb8GB31HTBRxC3+gKDdRY/SOgSfSExvwOt/sHwv9i4NYIgYYAAAAASUVORK5CYII=');background-size:50% 50%;width:17px;height:17px;background-repeat:no-repeat;background-position:center center;background-color:#f13500;border-radius:50%;vertical-align:middle;position:relative;margin:-3px 5px 0 -5px}.discount{background-image:linear-gradient(-90deg,#ec1f1f 0%,#ff9c00 100%)}.installment{background:#f28902}.listrowproduct li label{display:inline-block;position:absolute;top:188px;left:10px;font-size:11px;color:#fff;font-weight:600;border-radius:9px;padding:0 5px;height:18px}.listrowproduct{clear:both;display:block;background:#fff;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-flex-flow:row wrap;flex-flow:row wrap;flex:1 100%;border-top:1px solid #eee;border-left:1px solid #eee;margin-bottom:15px}.rowprice{display:block;overflow:hidden;padding:5px 10px 0 10px}.rowratingresult{padding:5px 10px}.rowratingresult span{color:#777;text-decoration:none;position:relative;top:1px}.rowpromo{display:block;padding:5px 10px 0 10px;margin:0}.listrowproduct li strong{display:inline-block;vertical-align:middle;overflow:hidden;font-size:14px;color:#e10c00;line-height:15px}.listrowproduct li .rowprice span{display:inline-block;vertical-align:middle;font-size:12px;text-decoration:line-through;margin-left:5px;color:#222}.listrowproduct li .rowpromo p{font-size:12px;color:#333;line-height:1.4;width:165px;float:left;margin-left:10px;white-space:normal;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.rowratingresult .icontgdd-ystar{background-position:-295px -30px;width:12px;height:12px}.rowratingresult .icontgdd-hstar{background-position:-423px -30px;width:12px;height:12px}.rowratingresult .icontgdd-gstar{background-position:-310px -30px;width:12px;height:12px}.listrowproduct.product1 li .rowpromo p{width:220px;margin:0 0 0 0}.listrowproduct.product1 li .rowpromo{padding-left:30px}.listrowproduct.product1 li .rowratingresult{padding-left:30px}.listrowproduct.product1 li .rowprice{padding-left:30px}.listrowproduct.product1 li label{transform:translateX(-50%);left:32.5%}.listrowproduct.product1 li{float:left;position:relative;width:50%;overflow:hidden;border-right:1px solid #eee;border-bottom:1px solid #eee;border-left:1px solid #eee;margin:0 auto}.listrowproduct.product1 a{display:block;overflow:hidden;background:#fff;padding:10px 0}.listrowproduct.product1 li h3{display:block;line-height:1.3em;font-size:14px;margin:0 30px;color:#333;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;text-overflow:ellipsis;overflow:hidden}.listrowproduct.product2 li .rowpromo p{width:220px;margin:0 0 0 0}.listrowproduct.product2 li .rowpromo{padding-left:30px}.listrowproduct.product2 li .rowratingresult{padding-left:30px}.listrowproduct.product2 li .rowprice{padding-left:30px}.listrowproduct.product2 li label{transform:translateX(-50%);left:32.5%}.listrowproduct.product2 li{float:left;position:relative;width:49%;overflow:hidden;border-right:1px solid #eee;border-bottom:1px solid #eee}.listrowproduct.product2 a{display:block;overflow:hidden;background:#fff;padding:10px 0}.listrowproduct.product2 li h3{display:block;line-height:1.3em;font-size:14px;margin:0 30px;color:#333;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;text-overflow:ellipsis;overflow:hidden}.listrowproduct.product3 li .rowpromo p{margin:0}.listrowproduct.product3 li .rowprice{padding-left:10px}.listrowproduct.product3 li label{left:10px}.listrowproduct.product3 li{float:left;position:relative;width:33%;overflow:hidden;border-right:1px solid #eee;border-bottom:1px solid #eee}.listrowproduct.product3 a{display:block;overflow:hidden;background:#fff;padding:10px 0}.listrowproduct.product3 li h3{display:block;line-height:1.3em;font-size:14px;margin:0 10px;color:#333;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;text-overflow:ellipsis;overflow:hidden}.listrowproduct.productviewmore li .rowpromo p{margin:0}.listrowproduct.productviewmore li .rowprice{padding-left:10px}.listrowproduct.productviewmore li label{left:10px}.listrowproduct.productviewmore li.cat44 label{top:138px}.listrowproduct.productviewmore li{float:left;position:relative;width:33%;overflow:hidden;border-right:1px solid #eee;border-bottom:1px solid #eee;min-height:220px}.listrowproduct.productviewmore a{display:block;overflow:hidden;background:#fff;padding:10px 0}.listrowproduct.productviewmore li h3{display:block;line-height:1.3em;font-size:14px;margin:0 10px;color:#333;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;text-overflow:ellipsis;overflow:hidden}.listrowproduct li a img{min-height:unset;height:auto}a.moreproduct{display:block;overflow:hidden;position:relative;line-height:40px;font-size:14px;color:#288ad6;text-align:center;border-radius:4px;float:right;width:150px;padding:0 !important;margin:-10px 5px 0 0;text-align:right}a.moreproduct:hover{cursor:pointer}a.moreproduct::after{content:'';width:0;right:0;border-top:6px solid #288ad6;border-left:6px solid transparent;border-right:6px solid transparent;display:inline-block;vertical-align:middle;margin:-2px 0 0 5px}a.rUp::after{content:'';width:0;right:0;border-top:unset;border-bottom:6px solid #288ad6;border-left:6px solid transparent;border-right:6px solid transparent;display:inline-block;vertical-align:middle;margin:-2px 0 0 5px}.tlt{font-size:16px;padding:10px 0;display:block}.hideproduct{display:none}.divContent h4{margin-top:5px;font-size:16px;line-height:20px;word-spacing:.6px;margin-bottom:10px}.divContent>table{border-collapse:collapse;width:100% !important}.divContent>table>thead{background-color:#ffad60}.divContent>table td{padding:2px 5px}.listrowproduct li a img.icon-imgNew.cate7264{position:absolute;top:0;left:5%;width:50px}
+</style>
+</head>
+<body>
+    <section>
+        
+
+
+
+<div class="topbarask">
+    <h1>Hỏi đáp về sản phẩm</h1>
+    
+<div class="area_user" >
+        <a href="javascript:;" class="login">Đăng nhập</a>
+        <div class="loginwith">
+            <p>Đăng nhập để đặt câu hỏi và tham gia bình luận bài viết</p>
+            <a href="javascript:OpenLoginWindowCampaign(1);" class="fb"><span>f</span>Đăng nhập bằng Facebook</a>
+            <a href="javascript:OpenLoginWindowCampaign(2);" class="gp"><span>g</span>Đăng nhập bằng Google</a>
+        </div>
+</div>
+
+</div>
+<!-- === -->
+<aside class="ask_left">
+    <!-- === col_topic -->
+    <div class="col_topic">
+        
+        
+<h2>Chủ đề nổi bật</h2>
+<ul class="highlight_topic">
+    <li>
+        <label>
+            <i class="iconask-android"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/android">Android</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/android/khoi-phuc-reset">
+                Kh&#244;i phục - Reset
+                
+            </a>
+            <a href="/hoi-dap/chu-de/android/thu-thuat-meo-su-dung">
+                Thủ thuật - Mẹo sử dụng
+                
+            </a>
+            <a href="/hoi-dap/chu-de/android/root-android">
+                ROOT Android
+                
+            </a>
+            <a href="/hoi-dap/chu-de/android/loi-thuong-gap">
+                Lỗi thường gặp
+                
+            </a>
+            <a href="/hoi-dap/chu-de/android/tai-khoan-android">
+                T&#224;i khoản Android
+                
+            </a>
+            <a href="/hoi-dap/chu-de/android/android-9">
+                Android 9
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconask-ios"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/iphone-ios">iPhone - iOS</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/iphone-ios/ios-13">
+                iOS 13
+                
+            </a>
+            <a href="/hoi-dap/chu-de/iphone-ios/thu-thuat-su-dung">
+                Thủ thuật sử dụng
+                
+            </a>
+            <a href="/hoi-dap/chu-de/iphone-ios/apple-id-icloud">
+                Apple ID - iCloud
+                
+            </a>
+            <a href="/hoi-dap/chu-de/iphone-ios/loi-thuong-gap">
+                Lỗi thường gặp
+                
+            </a>
+            <a href="/hoi-dap/chu-de/iphone-ios/jailbreak-ios">
+                Jailbreak iOS
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconsocial"></i>
+            <h3 class='activecate'>
+                <a href="/hoi-dap/chu-de/mang-xa-hoi">Mạng xã hội</a>
+            </h3>
+        </label>
+            <div class="subtopic ">
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/line">
+                Line
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/skype">
+                Skype
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/zalo">
+                Zalo
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/youtube">
+                Youtube
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/messenger-facebook">
+                Messenger Facebook
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/facebook">
+                Facebook
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi/instagram">
+                Instagram
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconcate-watch"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/dong-ho-thoi-trang">Đồng hồ thời trang</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/dong-ho-thoi-trang/meo-huong-dan-su-dung">
+                Mẹo - Hướng dẫn sử dụng
+                
+            </a>
+            <a href="/hoi-dap/chu-de/dong-ho-thoi-trang/tu-van-chon-mua">
+                Tư vấn chọn mua
+                
+            </a>
+            <a href="/hoi-dap/chu-de/dong-ho-thoi-trang/thuong-hieu-dong-san-pham-noi-bat">
+                Thương hiệu - D&#242;ng sản phẩm nổi bật
+                
+            </a>
+    </div>
+
+    </li>
+
+    <li>
+        <label>
+            <i class="iconcate-glass"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/mat-kinh-thoi-trang">Mắt kính thời trang</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/mat-kinh-thoi-trang/meo-su-dung">
+                Mẹo sử dụng
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mat-kinh-thoi-trang/thuong-hieu-san-pham-noi-bat">
+                Thương hiệu - sản phẩm nổi bật
+                
+            </a>
+            <a href="/hoi-dap/chu-de/mat-kinh-thoi-trang/tu-van-chon-mua">
+                Tư vấn chọn mua
+                
+            </a>
+    </div>
+
+    </li>
+
+    <li>
+        <label>
+            <i class="iconcate-dm"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/dien-may">Điện máy</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/dien-may/tivi">
+                Tivi
+                
+            </a>
+            <a href="/hoi-dap/chu-de/dien-may/tu-lanh">
+                Tủ lạnh
+                
+            </a>
+            <a href="/hoi-dap/chu-de/dien-may/may-lanh">
+                M&#225;y lạnh
+                
+            </a>
+            <a href="/hoi-dap/chu-de/dien-may/may-giat">
+                M&#225;y giặt
+                
+            </a>
+            <a href="/hoi-dap/chu-de/dien-may/gia-dung">
+                Gia dụng
+                
+            </a>
+    </div>
+
+    </li>
+
+    <li>
+        <label>
+            <i class="iconcate-print"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/may-in">Máy in</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/may-in/muc-may-in">
+                Mực m&#225;y In
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconask-gametips"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/thu-thuat-game">Thủ Thuật Game</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/thu-thuat-game/apex-legend">
+                Apex Legend
+                
+            </a>
+            <a href="/hoi-dap/chu-de/thu-thuat-game/cs-go">
+                CS-Go
+                
+            </a>
+            <a href="/hoi-dap/chu-de/thu-thuat-game/lol">
+                LOL
+                
+            </a>
+            <a href="/hoi-dap/chu-de/thu-thuat-game/pubg">
+                PUBG
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconask-pc"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/pc-laptop-macbook">PC / Laptop / Macbook</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/pc-laptop-macbook/thu-thuat-laptop">
+                Thủ thuật Laptop
+                
+            </a>
+            <a href="/hoi-dap/chu-de/pc-laptop-macbook/windows-10">
+                Windows 10
+                
+            </a>
+            <a href="/hoi-dap/chu-de/pc-laptop-macbook/macos-apple">
+                macOS - Apple
+                
+            </a>
+            <a href="/hoi-dap/chu-de/pc-laptop-macbook/tu-van-laptop">
+                Tư vấn Laptop
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconask-consult"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/tu-van-mua-san-pham">Tư vấn mua sản phẩm</a>
+            </h3>
+        </label>
+            <div class="subtopic hide">
+            <a href="/hoi-dap/chu-de/tu-van-mua-san-pham/sim-so-the-cao">
+                Sim số - Thẻ c&#224;o
+                
+            </a>
+            <a href="/hoi-dap/chu-de/tu-van-mua-san-pham/dong-ho-thong-minh">
+                Đồng hồ th&#244;ng minh
+                
+            </a>
+            <a href="/hoi-dap/chu-de/tu-van-mua-san-pham/laptop">
+                Laptop
+                
+            </a>
+            <a href="/hoi-dap/chu-de/tu-van-mua-san-pham/may-tinh-bang">
+                M&#225;y t&#237;nh bảng
+                
+            </a>
+            <a href="/hoi-dap/chu-de/tu-van-mua-san-pham/dien-thoai">
+                Điện thoại
+                
+            </a>
+            <a href="/hoi-dap/chu-de/tu-van-mua-san-pham/phu-kien">
+                Phụ kiện
+                
+            </a>
+    </div>
+
+    </li>
+    <li>
+        <label>
+            <i class="iconask-wiki"></i>
+            <h3 >
+                <a href="/hoi-dap/chu-de/wiki-thuat-ngu">Wiki - Thuật ngữ</a>
+            </h3>
+        </label>
+        
+    </li>
+</ul>
+
+
+            <h2>Sản phẩm được hỏi nhiều</h2>
+    <div class="ask_sp">
+            <a href="/hoi-dap/san-pham/asus-zenfone-2-ze500cl" class="linkimg">
+                <img width="50" height="50" src="https://cdn.tgdd.vn/Products/Images/42/72214/asus-zenfone-2-ze500cl-1-200x200.jpg" alt="">
+                <h3>Asus Zenfone 2 ZE500CL</h3>
+                    <span>17 hướng dẫn</span>
+                                    <label>420 câu hỏi</label>
+            </a>
+            <a href="/hoi-dap/san-pham/samsung-galaxy-j7-prime" class="linkimg">
+                <img width="50" height="50" src="https://cdn.tgdd.vn/Products/Images/42/84798/samsung-galaxy-j7-prime-hh-200x200.jpg" alt="">
+                <h3>Samsung Galaxy J7 Prime</h3>
+                    <span>50 hướng dẫn</span>
+                                    <label>1.367 câu hỏi</label>
+            </a>
+            <a href="/hoi-dap/san-pham/samsung-galaxy-a5" class="linkimg">
+                <img width="50" height="50" src="https://cdn.tgdd.vn/Products/Images/42/70049/samsung-galaxy-a5-nkk-190x190.jpg" alt="">
+                <h3>Samsung Galaxy A5</h3>
+                    <span>45 hướng dẫn</span>
+                                    <label>413 câu hỏi</label>
+            </a>
+        <form action="/hoi-dap/tim-kiem" method="get" onsubmit="return submitSearchFormProduct();" class="search_sp">
+                <input name="key" id="search-Product" type="text" placeholder="Tìm sản phẩm" autocomplete="off" onkeydown="searchProduct(event);" maxlength="50">
+                <button type="submit"><i class="iconask-search"></i></button>
+        </form>
+        <div id="SuggestSearchProduct"></div>
+    </div>
+
+    </div>
+    <!-- col_content-->
+    <div class="col_content">
+        
+<form class="search_ask" action="/hoi-dap/tim-kiem" onsubmit="return submitSearchFormFAQ()">
+    <input type="text" id="txtKeysearch" name="key" onkeyup="SuggestSearchFAQNew(this)" autocomplete="off" placeholder="Tìm hướng dẫn, mẹo hay, câu hỏi, sản phẩm">
+    <button type="submit">Tìm kiếm</button>
+    <i class="iconask-searchask"></i>
+    <ul class="sugguest"></ul>
+    <div class="trend">Tìm nhiều: <h1 dejavu="" h1="" liberation="" orphans:="" outline:="" overflow:="" style="margin: 0px; padding: 0px; font-stretch: normal; font-size: 20px; line-height: 1.3em; font-family: Helvetica, Arial, " widows:="" zoom:=""><a href="https://www.thegioididong.com/hoi-dap/cach-cap-nhat-tinh-hinh-nhiem-corona-chinh-thong-tren-app-1237442" target="_blank">Corona</a> <a href="https://www.thegioididong.com/hoi-dap/diem-danh-5-tinh-nang-moi-thu-vi-nhat-tren-dong-galaxy-s20-1235964" target="_blank">Galaxy S20</a> <a href="https://www.thegioididong.com/hoi-dap/so-sanh-may-lanh-thuong-va-may-lanh-inverter-nen-chon-mua-1238297" target="_blank">So sánh máy lạnh thường và máy lạnh inverter</a> <a href="https://www.thegioididong.com/hoi-dap/cach-bao-cao-ca-benh-nghi-ngo-nhiem-corona-bang-app-suc-1237395" target="_blank">COVID-19</a> <a href="https://www.thegioididong.com/hoi-dap/viettel-multisim-la-gi-cach-dang-ky-nhu-the-nao-co-ton-phi-1240008" target="_blank">Viettel MultiSIM</a> </h1>
+</div>
+</form>
+
+        <!-- === -->
+        <article data-type="2">
+            
+    <ul class="breadcrumb">
+        <li><a href="/hoi-dap">Hỏi đáp</a> <span>›</span></li>
+        <li>
+            <a href="/hoi-dap/chu-de/mang-xa-hoi" title="Mạng x&#227; hội">Mạng x&#227; hội</a>
+        </li>
+    </ul>
+
+            <h1>C&#225;ch tắt tự động lưu ảnh tr&#234;n Facebook Messenger</h1>
+            <div class="rowuser">
+                Quốc Ca<span>14/02/19</span>
+                    <span class="numcmt"><i class="iconask-com"></i>52 bình luận</span>
+                
+            </div>
+            
+
+            <div class="divContent">
+<h2><strong>Tắt tự động sao lưu ảnh trên Facebook Messenger là để khắc phục vấn đề tự động lưu ảnh vào <a data-cke-saved-href="https://www.thegioididong.com/dtdd" href="https://www.thegioididong.com/dtdd">điện thoại</a>, mà đôi khi bạn không mong muốn.</strong></h2><p><strong><img data-cke-saved-src="//cdn.tgdd.vn/hoi-dap/929605/cach-tat-tu-dong-luu-anh-tren-messenger-100.jpg" class="lazy" data-original="//cdn1.tgdd.vn/hoi-dap/929605/cach-tat-tu-dong-luu-anh-tren-messenger-100.jpg" alt="">​</strong></p><p>Để tắt tự động lưu ảnh trên<em> Messenger </em>bạn có thể thao tác theo hướng dẫn:</p><p><strong>Bước 1: </strong>Chọn vào <u><strong><a data-cke-saved-href="https://play.google.com/store/apps/details?id=com.facebook.orca&hl=vi" href="https://play.google.com/store/apps/details?id=com.facebook.orca&hl=vi"><em>Messenger</em></a></strong></u> > Chọn vào thông tin cá nhân.</p><p><img data-cke-saved-src="//cdn.tgdd.vn/hoi-dap/929605/cach-tat-tu-dong-luu-anh-tren-facebook-messenger.jpg" class="lazy" data-original="//cdn.tgdd.vn/hoi-dap/929605/cach-tat-tu-dong-luu-anh-tren-facebook-messenger.jpg" alt=""></p><p style="text-align: center;"><em>Chọn vào thông tin cá nhân</em></p><p><strong>Bước 2: </strong>Chọn ảnh & Phương tiện.</p><p style="text-align: center;"><img data-cke-saved-src="//cdn.tgdd.vn/hoi-dap/929605/tat-tu-dong-luu-anh-tren-Messsenger-2.jpg" class="lazy" data-original="//cdn.tgdd.vn/hoi-dap/929605/tat-tu-dong-luu-anh-tren-Messsenger-2.jpg" alt=""><em>Chọn ảnh & phương tiện</em></p><p><strong>Bước 3: </strong>Chổ lưu ảnh > Chọn tắt là được bạn nhé.</p><p style="text-align: center;"><img data-cke-saved-src="//cdn.tgdd.vn/hoi-dap/929605/tat-tu-dong-luu-anh-tren-Messsenger-3.jpg" class="lazy" data-original="//cdn1.tgdd.vn/hoi-dap/929605/tat-tu-dong-luu-anh-tren-Messsenger-3.jpg" alt=""><em>Chọn tắt lưu ảnh</em></p><p>Vài bước hoàn thành cách <a data-cke-saved-href="https://www.thegioididong.com/hoi-dap/cach-tat-tu-dong-luu-anh-tren-facebook-messenger-929605" href="https://www.thegioididong.com/hoi-dap/cach-tat-tu-dong-luu-anh-tren-facebook-messenger-929605">tắt tự động lưu ảnh trên <em>Messenger</em></a>, chúc bạn thành công.</p><p><b>Bạn sẽ quan tâm:</b></p><p>>>> <a data-cke-saved-href="https://www.thegioididong.com/hoi-dap/huong-dan-tat-thong-bao-tren-messenger-1048607" href="https://www.thegioididong.com/hoi-dap/huong-dan-tat-thong-bao-tren-messenger-1048607">Hướng dẫn tắt thông báo trên Messenger</a>​</p><p>>>> <a data-cke-saved-href="https://www.thegioididong.com/hoi-dap/cach-mo-cuoc-tro-chuyen-bi-mat-tren-facebook-messe-1048612" href="https://www.thegioididong.com/hoi-dap/cach-mo-cuoc-tro-chuyen-bi-mat-tren-facebook-messe-1048612">Cách mở cuộc trò chuyện bí mật trên Facebook Messenger </a></p><p>>>> <a data-cke-saved-href="https://www.thegioididong.com/hoi-dap/cach-tat-bong-bong-chat-tren-messenger-1049636" href="https://www.thegioididong.com/hoi-dap/cach-tat-bong-bong-chat-tren-messenger-1049636">Cách tắt bong bóng chat trên Messenger</a></p><p>>>> <a data-cke-saved-href="https://www.thegioididong.com/hoi-dap/cach-tat-tu-dong-luu-anh-tren-facebook-messenger-929605" href="https://www.thegioididong.com/hoi-dap/cach-tat-tu-dong-luu-anh-tren-facebook-messenger-929605">Cách tắt tự động lưu ảnh trên Facebook Messenger</a></p><p style="text-align: right;"><a data-cke-saved-href="https://www.thegioididong.com/hoi-dap/" href="https://www.thegioididong.com/hoi-dap/" target="_blank">Hỏi Đáp Thế Giới Di Động</a></p></p>                
+
+                <div class="rowcount">
+                    <div class="likeshare"></div>
+                        <div class="articleview"><i class="iconask-view"></i>206.619 lượt xem</div>
+
+<div class="rating" id="rating">
+    <div class="s">
+        <span>Chấm điểm bài viết</span>
+        
+        <label id="s1"><i class="iconask-star"></i></label>
+        <label id="s2"><i class="iconask-star"></i></label>
+        <label id="s3"><i class="iconask-star"></i></label>
+        <label id="s4"><i class="iconask-star"></i></label>
+        <label id="s5"><i class="iconask-star"></i></label>
+    </div>
+    <div class="d">
+        <a href="javascript:addRating()" class="btnRt hide">Chấm điểm</a>
+        <span class="lblRt hide"></span>
+    </div>
+    <div class="r hide">Cám ơn bạn đã đánh giá bài viết</div>
+    <input type="hidden" name="hdfStar" id="hdfStar" value="0" />
+</div>
+                </div>
+            </div>
+                <div class="clr"></div>
+            <script>var tgddc_urlroot = 'http://www.thegioididong.com/commentnew';var comment_cdn = 'https://www.thegioididong.com/commentnew';var jsCommentUrl = 'https://www.thegioididong.com/commentnew/Scripts/CommentNew.min.js';var rooturl='.thegioididong.com';</script><div id="comment" class="wrapcomment" cmtcategoryid="15" siteid="1" detailid="929605" cateid="0"><textarea class="dropfirst textarea txtEditor" placeholder="Mời bạn thảo luận, vui lòng nhập tiếng Việt có dấu" onclick="cmtaddcommentclick(1);" id="txtEditor" ></textarea><div class="sortcomment">    <div class="statistical hide" id="notifycmtmsg">Bình luận mới vừa được thêm vào. <a href=javascript:void(0)>Click để xem</a></div>            <a href="javascript:listcomment(2,1,0)" class="activedsort" id="tNew">Mới nhất</a>        <a href="javascript:listcomment(2,3,0)" id="tBest" >Bình luận hay</a>     <span>Xếp theo:</span></div><div class="infocomment"><div class="comment_ask" id="40995619"><i class="iconcom-user">yl</i><strong class="cmtMxh"><strong>Can You Laugh?</strong></strong><div class="infocom_ask ">còn trên máy tính thì phải tắt chỗ nào hả mọi người , Máy tính em nó tự động lưu và tự động tải các file của người khác chia sẻ.</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(40995619)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(40995619);" > Thích</span> </span><span class"date"><b class="dot">●</b> 29 ngày trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(40995619)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;40995619&quot;,&quot;0&quot;)" data-id="40995619" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r40995619" ><i class="arrow_box"></i><div class="comment_ask " id="40995735" data-parent="40995619" ><i class="iconcom-user">QA</i><strong onclick="selCmt(40995735)">Quốc Anh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Chào bạn,<br>Dạ theo mình kiểm tra thì máy tính không tự động sao lưu ảnh bạn nhé.<br>Thông tin đến bạn. </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(40995735,40995619)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(40995735);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 29 ngày trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="34604520"><i class="iconcom-user">N</i><strong onclick="selCmt(34604520)">Ngoc</strong><div class="infocom_ask ">E dùng samsung a10.e muốn tự động lưu ảnh trong masenger về máy thì làm thế nào ạ.e làm theo hướng dẫn bên trên nhưng k dk ạ</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(34604520)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(34604520);" > Thích</span> </span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(34604520)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;34604520&quot;,&quot;0&quot;)" data-id="34604520" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r34604520" ><i class="arrow_box"></i><div class="comment_ask " id="34613938" data-parent="34604520" ><i class="iconcom-user">MT</i><strong onclick="selCmt(34613938)">Minh Thao</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Chào bạn! Xin lỗi đã để bạn chờ lâu ạ. <br>Dạ, về trường hợp này. Bạn thử cách sau nhé:  vào ứng dụng Messenger > bạn ấn vào hình ảnh avatar nhỏ của bạn, ở góc phải phía trên cùng màn hình > từ đây bạn sẽ vô phần tùy chọn cài đặt của Messenger > bạn kéo xuống tìm tùy chọn "Hình ảnh và phương tiện" (Photos & Media) > bật hết 2 tùy chọn bên trong lên ạ.<br>Mong nhận được phản hồi từ bạn. </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(34613938,34604520)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(34613938);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="33257697"><i class="iconcom-user">P</i><strong onclick="selCmt(33257697)">Phước</strong><div class="infocom_ask ">Em dùng huawei nova 2i, máy em bị tình trạng tự động tải hình ảnh mẫu, video trên lazada, bigC, B612, beauty plus,... Hễ app nào có ảnh nó cũng tải cả 1000 tấm về. E đã xóa nhiều lần nhưng nó vẫn tải lại. Anh chị có cách giúp em với.</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(33257697)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(33257697);" > Thích</span> </span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(33257697)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;33257697&quot;,&quot;0&quot;)" data-id="33257697" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r33257697" ><i class="arrow_box"></i><div class="comment_ask " id="33260984" data-parent="33257697" ><i class="iconcom-user">TV</i><strong onclick="selCmt(33260984)">Triệu Vỹ</strong><div class="infocom_ask"><div class="conticon"><div class="content_s"><p>Chào bạn,</p> <p>Với trường hợp như vậy, bạn vui lòng khôi phục cài đặt gốc gúp mình. Lưu ý giúp mình là khôi phục cài đặt gốc sẽ mất hết tất cả dữ liệu trong máy bạn nhé ngoài ra, bạn nên nhớ tài khoản google của bạn đã đăng nhập trên máy bạn hoặc thoát tài khoản google trước khi thao tác khôi phục cài đặt gốc cũng như sao lưu lại dữ liệu ạ.</p> <p>Bạn thao tác như sau: Bạn vào Cài đặt --> Cài đặt nâng cao --> Chọn sao lưu và thiết lập lại --> Đặt lại về dữ liệu gốc.</p> <p>Chúc bạn thành công</p></div><div class="content hide"><p>Chào bạn,</p> <p>Với trường hợp như vậy, bạn vui lòng khôi phục cài đặt gốc gúp mình. Lưu ý giúp mình là khôi phục cài đặt gốc sẽ mất hết tất cả dữ liệu trong máy bạn nhé ngoài ra, bạn nên nhớ tài khoản google của bạn đã đăng nhập trên máy bạn hoặc thoát tài khoản google trước khi thao tác khôi phục cài đặt gốc cũng như sao lưu lại dữ liệu ạ.</p> <p>Bạn thao tác như sau: Bạn vào Cài đặt --> Cài đặt nâng cao --> Chọn sao lưu và thiết lập lại --> Đặt lại về dữ liệu gốc.</p> <p>Chúc bạn thành công</p></div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(33260984,33257697)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(33260984);" > Thích</span> (1)</span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="31968438"><i class="iconcom-user">H</i><strong onclick="selCmt(31968438)">Hằng</strong><div class="infocom_ask ">Cho e hỏi e dùng máy samsung c9pro e muốn tự động lưu hình ảnh mình đã xem trên face book về máy thì lm cách nào ạh?</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(31968438)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(31968438);" > Thích</span> (1)</span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(31968438)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;31968438&quot;,&quot;0&quot;)" data-id="31968438" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r31968438" ><i class="arrow_box"></i><div class="comment_ask " id="31973343" data-parent="31968438" ><img  class='lazy imgU' data-original="https://cdn.tgdd.vn/profile/11051145.jpg?v=1105114537"></i><strong onclick="selCmt(31973343)">Xuân Đạt</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Dạ rất tiếc Facebook không có chức năng này rồi ạ, bạn cần lưu ảnh thủ công từng ảnh chứ không tự động lưu được bạn nhé.</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(31973343,31968438)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(31973343);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="31267145"><i class="iconcom-user">Lc</i><strong onclick="selCmt(31267145)">Linh Chi</strong><div class="infocom_ask ">Em làm như hướng dẫn của ad<br>Nhưng mà lại ko có chỗ lưu ảnh <br>Mà chỉ có lưu khi chụp, mở liên kết trong trình duyệt mặc định và biểu tượng cảm xúc thôi ạ<br>Bây giờ phải làm ntn để lưu ảnh tự động khi có người gửi đến ạ</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(31267145)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(31267145);" > Thích</span> (2)</span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(31267145)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;31267145&quot;,&quot;0&quot;)" data-id="31267145" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r31267145" ><i class="arrow_box"></i><div class="comment_ask " id="31267164" data-parent="31267145" ><i class="iconcom-user">TB</i><strong onclick="selCmt(31267164)">Tống Bình</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Bạn cho mình xin thông tin dòng máy bạn đang dùng để bên mình hỗ trợ bạn nhé.</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(31267164,31267145)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(31267164);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="30921238"><i class="iconcom-user">gt</i><strong onclick="selCmt(30921238)">Nguyễn Trần Gia Tuệ</strong><div class="infocom_ask ">Em đã tắt chế đọ lưu ảnh h em mún bật lại ko có . Em đg dùng samsung galaxy j7 pro ah.</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(30921238)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(30921238);" > Thích</span> </span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(30921238)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;30921238&quot;,&quot;0&quot;)" data-id="30921238" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r30921238" ><i class="arrow_box"></i><div class="comment_ask " id="30921355" data-parent="30921238" ><i class="iconcom-user">HT</i><strong onclick="selCmt(30921355)">Hà Thanh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Bạn vui lòng cho mình xin thêm thông tin rõ hơn về thắc mắc "chế đọ lưu ảnh" của bạn nha, mong bạn sớm phản hồi thông tin đến bên mình có thể hỗ trợ bạn nha. <br>Thông tin đến bạn !</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30921355,30921238)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30921355);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask " id="31234075" data-parent="30921238" ><i class="iconcom-user">NL</i><strong onclick="selCmt(31234075)">Nhật Lâm</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Hà Thanh: Ad cho e hỏi có cách nào tải toàn bộ ẢNH trên fb cá nhân của mình hoặc tải xuống toàn bộ ảnh trong hội thoại messenger lưu về máy vi tính (hoặc điện thoại) đc ko ạ</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(31234075,30921238)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(31234075);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="30752789"><i class="iconcom-user">V</i><strong onclick="selCmt(30752789)">Vân</strong><div class="infocom_ask ">S mình làm hết r mà nó vẫn k đc</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(30752789)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(30752789);" > Thích</span> </span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(30752789)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;30752789&quot;,&quot;0&quot;)" data-id="30752789" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r30752789" ><i class="arrow_box"></i><div class="comment_ask " id="30752842" data-parent="30752789" ><i class="iconcom-user">DN</i><strong onclick="selCmt(30752842)">Duy Ngọc</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Có thể là ứng dụng Messenger đã bị lỗi, nên bạn giúp mình xóa ứng dụng này đi. Rồi bạn vào cửa hàng, tải lại phiên bản mới hơn cho ứng dụng xem có được không nhé. </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30752842,30752789)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30752842);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask " id="30797948" data-parent="30752789" ><i class="iconcom-user">V</i><strong onclick="selCmt(30797948)">Vân</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Duy Ngọc: mình đã tải phiên bản mới r nhưng vãn k đc</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30797948,30752789)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30797948);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div><div class="comment_ask " id="30800426" data-parent="30752789" ><i class="iconcom-user">MT</i><strong onclick="selCmt(30800426)">Minh Tân</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Trường hợp này bạn vui lòng bớt chút thời gian mang máy ra siêu thị Thegioididong.com gần nhất để nhân viên kỹ thuật kiểm tra trực tiếp xem nguyên nhân do đâu nha .  </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30800426,30752789)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30800426);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="30329091"><i class="iconcom-user">N</i><strong onclick="selCmt(30329091)">Ngân</strong><div class="infocom_ask ">Máy mình không có hiển thị lưu ảnh. Khoảng 1 tuần nay mất chức năng này. Mày sử dụng dòng Oppo F1s</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(30329091)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(30329091);" > Thích</span> </span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(30329091)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;30329091&quot;,&quot;0&quot;)" data-id="30329091" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r30329091" ><i class="arrow_box"></i><div class="comment_ask " id="30329146" data-parent="30329091" ><i class="iconcom-user">QM</i><strong onclick="selCmt(30329146)">Quốc Minh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Dạ bạn thử cập nhật bản mới của ứng dụng- khởi động lại máy để dữ liệu hệ thống được tự động làm mới lại và kiểm tra lần nữa xem sao bạn nhé. </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30329146,30329091)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30329146);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask " id="30329337" data-parent="30329091" ><i class="iconcom-user">N</i><strong onclick="selCmt(30329337)">Ngân</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Quốc Minh: Mình đã cập nhật lại rồi nhưng vẫn không xuất hiện phím lưu lại</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30329337,30329091)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30329337);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div><div class="totalcomment-reply" onclick="showFullCmt(30329091)"><i class="iconcom-comment" ></i> Xem tiếp 3 trả lời khác ▾</div><div class="comment_ask hide" id="30329387" data-parent="30329091" ><i class="iconcom-user">QM</i><strong onclick="selCmt(30329387)">Quốc Minh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Dạ có thể do ứng dụng có vấn đề ạ; bạn thử luôn là xóa đi cài mới lại, hoặc mình dùng trình duyệt web vào Facebook xem lưu ảnh được không nhé.</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30329387,30329091)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30329387);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask hide" id="30329524" data-parent="30329091" ><i class="iconcom-user">N</i><strong onclick="selCmt(30329524)">Ngân</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Quốc Minh: Mình đã thử cài đặt lại  rồi nhưng vẫn không có.</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30329524,30329091)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30329524);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div><div class="comment_ask hide" id="30329638" data-parent="30329091" ><i class="iconcom-user">QM</i><strong onclick="selCmt(30329638)">Quốc Minh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Dạ bạn thử qua việc dùng trình duyệt web luôn chưa ạ; hoặc mình thử cách còn lại là cho khôi phục cài đặt gốc luôn nhé; bạn nhớ sao lưu dữ liệu lại và thoát gmail ra bạn nha.</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30329638,30329091)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30329638);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="30259872"><i class="iconcom-user">T</i><strong onclick="selCmt(30259872)">Thu</strong><div class="infocom_ask "> Máy Của Mình không có chữ lưu ảnh. Chỉ có lưu ảnh khi chụp và mở liên kết trong trình duyệt mặc định. Mình chọn cái nào để lưu ảnh tự động ạ.. Mình không hiểu sao.. Cả Tuần Nay Hình không Tự động lưu nữa bạn hướng dẫn mình Nhé.. </div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(30259872);" > Thích</span> (1)</span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(30259872)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;30259872&quot;,&quot;0&quot;)" data-id="30259872" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r30259872" ><i class="arrow_box"></i><div class="comment_ask " id="30260043" data-parent="30259872" ><img  class='lazy imgU' data-original="https://cdn.tgdd.vn/profile/13120543.jpg?v=1312054357"></i><strong onclick="selCmt(30260043)">Hoài Nhân</strong><div class="infocom_ask"><div class="conticon"><div class="content">Dạ trường hợp này bạn vui lòng chụp lại màn hình gửi lại tại đây giúp mình. Mong sớm nhận được phản hồi từ bạn tại đây để bên mình kiểm tra và hỗ trợ tốt cho bạn nhé. Và bạn đang sử dụng điện thoại tên gì vậy ạ ?</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30260043,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30260043);" > Thích</span> (1)</span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask " id="30279116" data-parent="30259872" ><i class="iconcom-user">T</i><strong onclick="selCmt(30279116)">Thuythuy</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Hoài Nhân: mk cx bị trường hợp tương tự, bữa trc mk cx có chế độ lưu ảnh nhưng mk tắt rồi và bây h ko thấy nữa, thì phải làm sao ạ?<br><br> <img class='lazy' data-original="https://cdn.tgdd.vn/comment/30279116/Screenshot_2018-10-08-19-39-32-87-20181008195010.png"></div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30279116,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30279116);" > Thích</span> (1)</span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div><div class="totalcomment-reply" onclick="showFullCmt(30259872)"><i class="iconcom-comment" ></i> Xem tiếp 5 trả lời khác ▾</div><div class="comment_ask hide" id="30279189" data-parent="30259872" ><i class="iconcom-user">T</i><strong onclick="selCmt(30279189)">Thủy</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Hoài Nhân: mk cx gặp phải th tương tự, lúc đầu thì máy mk cx có chế độ lưu ảnh nhưng sau đó mk tắt đi rồi và bây h ko thấy nữa, thì phải lm sao ạ?<br> <img class='lazy' data-original="https://cdn.tgdd.vn/comment/30279189/Screenshot_2018-10-08-19-39-32-87-20181008195247.png"></div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30279189,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30279189);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div><div class="comment_ask hide" id="30279302" data-parent="30259872" ><i class="iconcom-user">QM</i><strong onclick="selCmt(30279302)">Quốc Minh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Dạ bạn thử cập nhật lại bản mới của ứng dụng- khởi động lại máy để dữ liệu hệ thống được tự động làm mới lại và kiểm tra lần nữa xem sao bạn nhé. </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30279302,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30279302);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask hide" id="30279339" data-parent="30259872" ><i class="iconcom-user">TK</i><strong onclick="selCmt(30279339)">Thanh Khiêm</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Bạn vui lòng xóa Messenger, sau đó khởi động điện thoại, cài đặt lại Messenger xem có lại phần này chưa bạn nhé.<br>Chúc bạn thành công !</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30279339,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30279339);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div><div class="comment_ask hide" id="30309665" data-parent="30259872" ><i class="iconcom-user">T</i><strong onclick="selCmt(30309665)">Thủy</strong><div class="infocom_ask"><div class="conticon"><div class="content">@Thanh Khiêm: mk cx xóa rồi xong cài đặt lại mak vẫn ko đc ạ</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30309665,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30309665);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span><span class"dmb"><b class="dot">●</b> 📱</span></div></div></div><div class="clr"></div></div><div class="comment_ask hide" id="30309678" data-parent="30259872" ><i class="iconcom-user">HT</i><strong onclick="selCmt(30309678)">Hà Thanh</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Trường hợp này cần kiểm tra trực tiếp cho máy nên bạn vui lòng mang máy đến siêu thị gần nhất để được hỗ trợ kiểm tra cho máy và thông tin cụ thể đến bạn nha. <br>Thông tin đến bạn, thân chào bạn !</div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(30309678,30259872)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(30309678);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="comment_ask" id="29652673"><i class="iconcom-user">AM</i><strong onclick="selCmt(29652673)">Aí My</strong><div class="infocom_ask ">e muốn ảnh trên mes tự động lưu vào máy thì s ạ</div><div class="relate_infocom" data-cl="0" ><span class="reply" onclick="cmtaddreplyclick(29652673)" >Trả lời </span><b class="dot">●</b> <span class="numlike"> <i class="iconcom-like"></i> <span class="like" onclick="likeCmt(29652673);" > Thích</span> (2)</span><span class"date"><b class="dot">●</b> 1 năm trước</span><span class="reply cmtFaqEdit hide" onclick="cmtEditCmt(29652673)" ><b class="dot">●</b>Sửa </span><span class="reply cmtFaqDel hide" onclick="cmtRemoveCmt(&quot;29652673&quot;,&quot;0&quot;)" data-id="29652673" ><b class="dot">●</b>Xóa </span></div></div><div class="comment_reply" id="r29652673" ><i class="arrow_box"></i><div class="comment_ask " id="29656779" data-parent="29652673" ><i class="iconcom-user">HT</i><strong onclick="selCmt(29656779)">Hoàng Trung</strong><b class="qtv">MOD</b><div class="infocom_ask"><div class="conticon"><div class="content">Bạn vui lòng cung cấp thêm thông tin cho mình là bạn đang sử dụng dòng sản phẩm nào vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé. Mong nhận được phản hồi từ bạn ! </div><div class="relate_infocom" data-cl="0" ><span class="btnreply" onclick="cmtChildAddReplyClick(29656779,29652673)" >Trả lời </span><b class="dot">●</b> <span class="numlike"><i class="iconcom-like"></i><span class="like" onclick="likeCmt(29656779);" > Thích</span> </span><span class=&quot;date&quot;><b class="dot">●</b> 1 năm trước</span></div></div></div><div class="clr"></div></div></div><div class="pagcomment"><span class="active">1</span><span  onclick="listcomment(2,3,2);return false;"   title="trang 2">2</span><span  onclick="listcomment(2,3,2);return false;"   title="trang 2">»</span></div></div><textarea class="dropfirst textarea txtEditor" placeholder="Mời bạn tham gia đánh giá, thảo luận, vui lòng nhập tiếng Việt có dấu" id="txtEditor2"></textarea></div>
+            <div class="clr"></div>
+        </article>
+    </div>
+</aside>
+<!-- right-->
+<aside class="ask_right">
+    
+<div class="area_input">
+    <div class="question">
+        <span class="plIq" onclick="showInputQuestion()">Nhập nội dung câu hỏi của bạn</span>
+        <div id="txtContentQS" contenteditable="true" placeholder="Nhập nội dung câu hỏi của bạn" class="hide"></div>
+        <div id="lberror" class="hide"></div>
+    </div>
+    <div class="barsend">
+        <a id="spanImg" href="javascript:;"><i class="iconask-pic"></i>Gửi ảnh</a>
+        <button type="submit" onclick="sendQuestionCustomer()">Gửi</button>
+        <input id="upNotTitle" type="file" multiple="multiple" hidden="hidden" accept="image/x-png, image/gif, image/jpeg" />
+    </div>
+
+    <input type="hidden" class="txtName" value="" />
+    <input type="hidden" class="txtMail" value="" />
+    <input type="hidden" class="txtUserID" value="" />
+</div>
+
+    
+
+<div class="banner">
+    <a aria-label='slide' data-cate="0" data-place="1173" href="https://www.thegioididong.com/dtdd/oppo-reno3" onclick="jQuery.ajax({ url: 'https://www.thegioididong.com/bannertracking?bid=32461&r='+ (new Date).getTime(), async: true, cache: false });"><img style="cursor:pointer" src="https://cdn.tgdd.vn/2020/05/banner/300x90(5)-300x90.png" alt="Pre Tab S6 Lite" width="300" height="90"></a>
+<a aria-label='slide' data-cate="0" data-place="1173" href="https://www.thegioididong.com/dtdd/vivo-v19-neo" onclick="jQuery.ajax({ url: 'https://www.thegioididong.com/bannertracking?bid=29426&r='+ (new Date).getTime(), async: true, cache: false });"><img style="cursor:pointer" src="https://cdn.tgdd.vn/2020/05/banner/300x90-300x90.png" alt="Game Samsung Galaxy A31" width="300" height="90"></a></div>
+
+
+
+
+    
+</aside>
+
+<!--#region Breadcrumb-->
+<script type="application/ld+json">
+        
+            {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+            "@id": "https://www.thegioididong.com",
+            "name": "Thế Giới Di Động"
+            }},
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+            "@id": "https://www.thegioididong.com/hoi-dap",
+            "name": "Hỏi Đáp"
+            }}
+                
+                    ,
+                    {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                    "@id": "https://www.thegioididong.com/hoi-dap/chu-de/mang-xa-hoi",
+                    "name": "Mạng xã hội"
+                    }}
+                
+            ]}
+        
+
+</script>
+<!--#endregion-->
+
+
+<script type="text/javascript">
+    var tgddc_urlroot = '//www.thegioididong.com/commentnew';
+    var comment_cdn = 'https://www.thegioididong.com/commentnew';
+    var jsCommentUrl = 'https://www.thegioididong.com/commentnew/Scripts/CommentNewFaq.min.js?v=202005280845';
+    var staticcontentversion = '202005280845';
+    var comment_cssinline = '1';
+</script>
+    <!--
+    #region Schema chi tiết hỏi đáp-->
+    <!--#endregion-->
+    <!--#region FAQ Webpage-->
+    <script type="application/ld+json">
+        {"@type":"WebPage","@context":"https://schema.org","@id":"#WebPage","url":"","inLanguage":["EN","VN"],"name":"Cách tắt tự động lưu ảnh trên Facebook Messenger","datePublished":"2019-02-14T11:00:00","dateModified":null,"publisher":{"@type":"Organization","@id":"https://www.thegioididong.com#Organization"},"description":null,"isPartOf":{"@id":"https://www.thegioididong.com/hoi-dap#website"},"author":{"@type":"Person","@id":"#author","name":"Ca"},"commentCount":52.0}
+    </script>
+    <!--#endregion-->
+    <!--#region FAQ Index-->
+    <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"WebSite","@id":"https://www.thegioididong.com/hoi-dap#website","name":"Hỏi đáp về sản phẩm và dịch vụ tại Thegioididong.com","alternateName":"Bạn đang có những thắc mắc về sản phẩm và dịch vụ, hãy đặt những câu hỏi và nhận những giải đáp từ cộng đồng Thegioididong.com!","url":"https://www.thegioididong.com/hoi-dap","potentialAction":{"@type":"SearchAction","target":"https://www.thegioididong.com/hoi-dap/tim-kiem?key={search_term_string}","query-input":"required name=search_term_string"}}
+    </script>
+    <!--#endregion-->
+        <script type="application/ld+json">
+            {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"#WebSite"},"headline":"Cách tắt tự động lưu ảnh trên Facebook Messenger","image":"https://cdn.tgdd.vn/hoi-dap/929605/Thumbnail/cach-tat-luu-anh-tu-dong-200.jpg","description":null,"datePublished":"2019-02-14T11:00:00","dateModified":"2019-02-14T11:00:00","aggregateRating":null,"author":{"@type":"Person","@id":"#author","name":"Quốc Ca"},"publisher":{"@type":"Organization","@id":"https://www.thegioididong.com#Organization"},"commentCount":52}
+        </script>
+        <!--#region FAQ Comment-->
+            <script type="application/ld+json">
+                {"@context":"http://schema.org","@type":"FAQPage","@id":"#comment","url":"","commentCount":52,"mainEntity":[{"@type":"Question","name":"còn trên máy tính thì phải tắt chỗ nào hả mọi người , Máy tính em nó tự động lưu và tự động tải các file của người khác chia sẻ.<br><br><br><br>","acceptedAnswer":{"@type":"Answer","text":"Chào bạn,Dạ theo mình kiểm tra thì máy tính không tự động sao lưu ảnh bạn nhé.Thông tin đến bạn. ","upvoteCount":0}},{"@type":"Question","name":"E dùng samsung a10.e muốn tự động lưu ảnh trong masenger về máy thì làm thế nào ạ.e làm theo hướng dẫn bên trên nhưng k dk ạ","acceptedAnswer":{"@type":"Answer","text":"Chào bạn! Xin lỗi đã để bạn chờ lâu ạ. Dạ, về trường hợp này. Bạn thử cách sau nhé:  vào ứng dụng Messenger > bạn ấn vào hình ảnh avatar nhỏ của bạn, ở góc phải phía trên cùng màn hình > từ đây bạn sẽ vô phần tùy chọn cài đặt của Messenger > bạn kéo xuống tìm tùy chọn \"Hình ảnh và phương tiện\" (Photos & Media) > bật hết 2 tùy chọn bên trong lên ạ.Mong nhận được phản hồi từ bạn. ","upvoteCount":0}},{"@type":"Question","name":"Em dùng huawei nova 2i, máy em bị tình trạng tự động tải hình ảnh mẫu, video trên lazada, bigC, B612, beauty plus,... Hễ app nào có ảnh nó cũng tải cả 1000 tấm về. E đã xóa nhiều lần nhưng nó vẫn tải lại. Anh chị có cách giúp em với.","acceptedAnswer":{"@type":"Answer","text":"Chào bạn,\nVới trường hợp như vậy, bạn vui lòng khôi phục cài đặt gốc gúp mình. Lưu ý giúp mình là khôi phục cài đặt gốc sẽ mất hết tất cả dữ liệu trong máy bạn nhé ngoài ra, bạn nên nhớ tài khoản google của bạn đã đăng nhập trên máy bạn hoặc thoát tài khoản google trước khi thao tác khôi phục cài đặt gốc cũng như sao lưu lại dữ liệu ạ.\nBạn thao tác như sau: Bạn vào Cài đặt --> Cài đặt nâng cao --> Chọn sao lưu và thiết lập lại --> Đặt lại về dữ liệu gốc.\nChúc bạn thành công","upvoteCount":1}},{"@type":"Question","name":"Cho e hỏi e dùng máy samsung c9pro e muốn tự động lưu hình ảnh mình đã xem trên face book về máy thì lm cách nào ạh?","acceptedAnswer":{"@type":"Answer","text":"Dạ rất tiếc Facebook không có chức năng này rồi ạ, bạn cần lưu ảnh thủ công từng ảnh chứ không tự động lưu được bạn nhé.","upvoteCount":0}},{"@type":"Question","name":"Em làm như hướng dẫn của ad<br>Nhưng mà lại ko có chỗ lưu ảnh <br>Mà chỉ có lưu khi chụp, mở liên kết trong trình duyệt mặc định và biểu tượng cảm xúc thôi ạ<br>Bây giờ phải làm ntn để lưu ảnh tự động khi có người gửi đến ạ","acceptedAnswer":{"@type":"Answer","text":"Bạn cho mình xin thông tin dòng máy bạn đang dùng để bên mình hỗ trợ bạn nhé.","upvoteCount":0}},{"@type":"Question","name":"Em đã tắt chế đọ lưu ảnh h em mún bật lại ko có . Em đg dùng samsung galaxy j7 pro ah.","acceptedAnswer":{"@type":"Answer","text":"@Hà Thanh: Ad cho e hỏi có cách nào tải toàn bộ ẢNH trên fb cá nhân của mình hoặc tải xuống toàn bộ ảnh trong hội thoại messenger lưu về máy vi tính (hoặc điện thoại) đc ko ạ","upvoteCount":0}},{"@type":"Question","name":"S mình làm hết r mà nó vẫn k đc","acceptedAnswer":{"@type":"Answer","text":"Trường hợp này bạn vui lòng bớt chút thời gian mang máy ra siêu thị Thegioididong.com gần nhất để nhân viên kỹ thuật kiểm tra trực tiếp xem nguyên nhân do đâu nha .  ","upvoteCount":0}},{"@type":"Question","name":"Máy mình không có hiển thị lưu ảnh. Khoảng 1 tuần nay mất chức năng này. Mày sử dụng dòng Oppo F1s","acceptedAnswer":{"@type":"Answer","text":"Dạ bạn thử qua việc dùng trình duyệt web luôn chưa ạ; hoặc mình thử cách còn lại là cho khôi phục cài đặt gốc luôn nhé; bạn nhớ sao lưu dữ liệu lại và thoát gmail ra bạn nha.","upvoteCount":0}},{"@type":"Question","name":" Máy Của Mình không có chữ lưu ảnh. Chỉ có lưu ảnh khi chụp và mở liên kết trong trình duyệt mặc định. Mình chọn cái nào để lưu ảnh tự động ạ.. Mình không hiểu sao.. Cả Tuần Nay Hình không Tự động lưu nữa bạn hướng dẫn mình Nhé.. ","acceptedAnswer":{"@type":"Answer","text":"Trường hợp này cần kiểm tra trực tiếp cho máy nên bạn vui lòng mang máy đến siêu thị gần nhất để được hỗ trợ kiểm tra cho máy và thông tin cụ thể đến bạn nha. Thông tin đến bạn, thân chào bạn !","upvoteCount":0}},{"@type":"Question","name":"e muốn ảnh trên mes tự động lưu vào máy thì s ạ<br><br>","acceptedAnswer":{"@type":"Answer","text":"Bạn vui lòng cung cấp thêm thông tin cho mình là bạn đang sử dụng dòng sản phẩm nào vậy ạ, để mình có thể hỗ trợ cho bạn tốt hơn nhé. Mong nhận được phản hồi từ bạn ! ","upvoteCount":0}}]}
+            </script>
+        <!--#endregion-->
+
+<!--#region Organization-->
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@id":"https://www.thegioididong.com/#Organization","@type":"Organization","name":"Thế Giới Di Động","url":"https://www.thegioididong.com/","logo":{"@type":"ImageObject","url":"https://cdn.thegioididong.com/v2015/Content/logo/logo.png"},"contactPoint":[{"@type":"ContactPoint","telephone":"18001060","contactType":"sales","areaServed":"VN","availableLanguage":null},{"@type":"ContactPoint","telephone":"18001763","contactType":"technical support","areaServed":"VN","availableLanguage":["EN","VN"]},{"@type":"ContactPoint","telephone":"18001062","contactType":"customer support","areaServed":"VN","availableLanguage":["EN","VN"]}],"sameAs":["https://www.facebook.com/thegioididongcom/","https://vn.linkedin.com/company/thegioidong-dienmayxanh","https://www.youtube.com/user/TGDDVideoReviews","https://www.instagram.com/watch.thegioididong/","https://vt.tiktok.com/RH9SSp/","https://vi.wikipedia.org/wiki/Thegioididong.com"]}
+</script>
+<!--#endregion-->
+
+    </section>
+    <header class="tgdd">
+    <div class="wrap-main /">
+        <a class="logo " title="Về trang chủ Thegioididong.com" href="/" aria-label="logo">
+            <i class="icontgdd-logo"></i>
+        </a>
+        <form id="search-site" action="/tim-kiem" method="get" autocomplete="off">
+            <input class="topinput" id="search-keyword" name="key" type="text" aria-label="Bạn tìm gì..." placeholder="Bạn tìm gì..." autocomplete="off" onkeyup="SuggestSearch(event,this, 0);" maxlength="50" />
+            <button class="btntop" type="submit" aria-label="tìm kiếm"><i class="icontgdd-topsearch"></i></button>
+        </form>
+        <nav>
+            <a href="/dtdd" class="mobile" title="Điện thoại di động, smartphone">
+                <i class="icontgdd-mobile"></i>Điện thoại
+            </a>
+            <a href="/may-tinh-bang" class="tablet" title="Máy tính bảng, tablet">
+                <i class="icontgdd-tablet"></i>Tablet
+            </a>
+            <a href="/laptop" class="laptop" title="Máy tính xách tay, Laptop">
+                <i class="icontgdd-laptop"></i>Laptop
+            </a>
+            <a href="/phu-kien" class="phukien" title="Phụ kiện điện thoại di động, phụ kiện tablet, phụ kiện lapto">
+                <i class="icontgdd-phukien"></i>Phụ kiện
+            </a>
+            <a href="/dong-ho" class="smartwatch" title="Đồng hồ">
+                <i class="icontgdd-watch"></i>Đồng hồ
+            </a>
+            <a href="/may-doi-tra" class="maydoitra" title="Máy cũ giá rẻ, máy đổi trả thegioididong">
+                <i class="icontgdd-maydoitra"></i><span>Máy</span>Cũ giá rẻ
+            </a>
+
+                <a href="/tin-tuc" class="news" title="24h công nghệ">
+                    <i class="icontgdd-news"></i>Công Nghệ
+                </a>
+                <a href="/hoi-dap" class="ask" title="Hỏi đáp">
+                    <i class="icontgdd-ask"></i>Hỏi đáp
+                </a>
+
+            <a href="/game-app" class="gameapp" title="Game app">
+                <i class="icontgdd-gameapp"></i>Game App
+            </a>
+
+            <div id="utility-cardsim" class="utility">
+                Sim, thẻ cào<br />
+                Đóng tiền
+                <div class="mix-menu">
+                    <a href="/sim-so-dep" class="cardsim">
+                        Sim số, thẻ cào
+                    </a>
+                    <a href="/tien-ich/thanh-toan-tra-gop?">
+                        Đóng tiền điện, <br /> nước, trả góp
+                    </a>
+                </div>
+            </div>
+
+        </nav>
+
+            </div>
+    <div class="clr"></div>
+
+</header>
+    <footer class="tgdd">
+    <div class="rowfoot1">
+        <ul class="colfoot">
+            <li><a href="/tra-gop" title="Hướng dẫn mua trả góp">Tìm hiểu về mua trả góp</a></li>
+            <li><a href="/bao-hanh" title="Tìm trung tâm bảo hành">Chính sách bảo hành</a></li>
+            <li><a href="/chinh-sach-bao-hanh-san-pham" title="Chính sách đổi trả">Chính sách đổi trả</a></li>
+            <li><a href="/giao-hang" title="Giao hàng & Thanh toán">Giao hàng & Thanh toán</a></li>
+            <li class="showmore"><a href="javascript:ShowMoreFooterSupportLink()" title="Xem thêm">Xem thêm</a></li>
+            <li class="hidden"><a href="/huong-dan-mua-hang" title="Hướng dẫn mua online">Hướng dẫn mua online</a></li>
+            <li class="hidden"><a href="/b2b" title="Mua hàng doanh nghiệp">Bán hàng doanh nghiệp</a></li>
+            <li class="hidden"><a href="/phieu-mua-hang" title="Phiếu mua hàng">Phiếu mua hàng</a></li>
+            <li class="hidden"><a href="//hddt.thegioididong.com" target="_blank" title="In hóa đơn điện tử" rel="nofollow noopener">In hóa đơn điện tử</a></li>
+            <li class="hidden"><a href="/tos" title="Quy chế hoạt động">Quy chế hoạt động</a></li>
+            <li class="hidden"><a href="/noi-quy-cua-hang" title="Nội quy cửa hàng">Nội quy cửa hàng</a></li>
+            <li class="hidden"><a href="/chat-luong-phuc-vu" title="Chất lượng phục vụ">Chất lượng phục vụ</a></li>
+            <li class="hidden"><a href="/trao-thuong" title="Thông tin trao thưởng">Thông tin trao thưởng</a></li>
+            <li class="hidden"><a href="/chinh-sach-khui-hop-apple" title="Chính sách khui hộp sản phẩm Apple">Chính sách khui hộp sản phẩm Apple</a></li>
+        </ul>
+        <ul class="colfoot">
+            <li><a href="http://mwg.vn" target="_blank" title="Giới thiệu công ty (mwg.vn)" rel="noopener">Giới thiệu công ty <span>(mwg.vn)</span></a></li>
+            <li><a href="//vieclam.thegioididong.com" target="_blank" title="Tuyển dụng" rel="noopener">Tuyển dụng</a></li>
+            <li><a href="/lien-he" title="Gửi góp ý, khiếu nại">Gửi góp ý, khiếu nại</a></li>
+            <li><a href="/he-thong-sieu-thi-the-gioi-di-dong" title="Tìm siêu thị (2.024 shop)">Tìm siêu thị <span>(2.024 shop)</span></a></li>
+                <li>
+                    <a class="viewmb" rel="nofollow" href="/hoi-dap/apple-lay-lai-mat-khau-apple-id-khi-quen-585912?sclient=mobile" title="Xem bản mobile">Xem bản mobile</a>
+                </li>
+        </ul>
+        <ul class="colfoot">
+            <li>
+                
+                <p>Gọi mua hàng <a href="tel:18001060">1800.1060</a> (7:30 - 22:00)</p>
+                <p>Gọi khiếu nại &nbsp; <a href="tel:18001062">1800.1062</a> (8:00 - 21:30)</p>
+                <p>Gọi bảo hành &nbsp; <a href="tel:18001064">1800.1064</a> (8:00 - 21:00)</p>
+                <p>Kỹ thuật &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="tel:18001763">1800.1763</a> (7:30 - 22:00)</p>
+                <a target="_blank" rel="nofollow noopener" class="bct" href="http://online.gov.vn/HomePage/CustomWebsiteDisplay.aspx?DocId=20098" aria-label="bộ công thương mwg"><i class="icontgdd-bct"></i></a>
+                <a rel="nofollow noopener" class="bct" href="/tos#giai-quyet-khieu-nai" aria-label="bộ công thương chống hàng giả"><i class="icontgdd-hg"></i></a>
+                <a href="//www.dmca.com/Protection/Status.aspx?ID=5b62e759-2a0c-4d86-b972-af903bfbc89d&refurl=https://www.thegioididong.comi-dap/apple-lay-lai-mat-khau-apple-id-khi-quen-585912" title="DMCA.com Protection Status" class="dmca-badge"> <img style="opacity:0.6;margin: 0px auto -8px;display: block;" src="//images.dmca.com/Badges/dmca-badge-w100-5x1-11.png?ID=5b62e759-2a0c-4d86-b972-af903bfbc89d" alt="DMCA.com Protection Status"></a>
+            </li>
+        </ul>
+        <ul class="colfoot collast">
+            <li>
+                <a target="_blank" href="https://facebook.com/thegioididongcom" class="linkfb" rel="noopener">
+                    <i class="icontgdd-share1"></i>3.4tr
+                </a>
+                <a target="_blank" href="https://www.youtube.com/user/TGDDVideoReviews?sub_confirmation=1" class="linkyt" rel="noopener">
+                    <i class="icontgdd-share3"></i>714k
+                </a>
+                <div class="group">
+                    <label>Website cùng tập đoàn:</label>
+                    <a href="//www.maiamtgdd.vn" target="_blank" rel="noopener" class="ma" aria-label="www.maiamtgdd.vn"><i class="iconlogo-ma"></i></a>
+                    <a href="//www.dienmayxanh.com" target="_blank" rel="noopener" class="dm" aria-label="www.dienmayxanh.com"><i class="iconlogo-dmx"></i></a>
+                    <a href="//www.bachhoaxanh.com" target="_blank" rel="noopener" class="bhx" aria-label="www.bachhoaxanh.com"><i class="iconlogo-bhx"></i></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="rowfoot2">
+        <p>© 2019. Công ty cổ phần Thế Giới Di Động. GPDKKD: 0303217354 do sở KH & ĐT TP.HCM cấp ngày 02/01/2007. Địa chỉ: 128 Trần Quang Khải, P. Tân Định, Q.1, TP.Hồ Chí Minh. Điện thoại: 18001060. Email: cskh@thegioididong.com. Chịu trách nhiệm nội dung: Huỳnh Văn Tốt. <a href="/tos">Xem chính sách sử dụng web</a></p>
+    </div>
+</footer>
+    <p id="back-top" style="display: none">
+        <a href="#top" title="Về đầu trang"><span></span></a>
+    </p>
+        <script>
+            var rootUrl = '/hoi-dap';
+            var rooturl = '.thegioididong.com';
+        </script>
+    <!-- GA -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-918185-25', 'auto', { 'siteSpeedSampleRate': 10 });
+        window.onload = function () {
+            ga('send', 'pageview');
+        };
+    </script>
+    
+
+<script>
+    var hoidap_subcate = 'Khác';
+    var hoidap_cate = 'Mạng xã hội';
+    var hoidap_user = 'Quốc Ca';
+    var hoidap_publish = '14/02/2019';
+
+    ga('set', 'dimension10', hoidap_subcate);
+    ga('set', 'dimension11', hoidap_cate);
+    ga('set', 'dimension12', hoidap_user);
+    ga('set', 'dimension13', hoidap_publish);
+</script>
+    <script>
+        ga('send', 'pageview');
+    </script>
+    <!-- END GA-->
+
+    <script type="text/javascript">
+        var pQuestionID=929605;
+        var _PostType=2;
+    </script>
+        <script defer="defer" async="async" src="https://cdn.tgdd.vn/hoi-dap/Scripts/desktop/detail.min.v202005260130.js"></script>
+    
+</body>
+</html>
